@@ -40,7 +40,7 @@
 
 把兩張參考圖固定為主角與敵人，再依嚴格結構編排整場打鬥。
 
-<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-01#action-01"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-01.webp" width="560" alt="積水地鐵檢修廳裡的 30 秒近身格鬥 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/b677d7cf-1794-4a2c-95d7-75843c8a8533" width="560" controls muted playsinline></video>
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -145,7 +145,7 @@
 
 升格慢動作與快剪並用，並點名布料、木屑等真實物理。
 
-<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-02#action-02"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-02.webp" width="560" alt="古風客棧裡的武俠動作喜劇 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/97d835e2-f27d-4c8a-b0d2-85527ccb333d" width="560" controls muted playsinline></video>
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -193,7 +193,7 @@ A和B保持着帅气的接杀姿势僵在原地，剑和筷子还举着，齐刷
 
 先列出每張參考圖的身分，再寫對決，並附一行色板。
 
-<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-03#action-03"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-03.webp" width="560" alt="虎牢關對決，人物取自參考圖 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/23baad18-f2d4-436c-b277-06f2e99ecca9" width="560" controls muted playsinline></video>
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -216,7 +216,7 @@ Image 3
 
 每四秒一個視窗只寫一個動作，打鬥弧線一目了然。
 
-<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-04#action-04"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-04.webp" width="560" alt="競技場對決，依秒逐拍寫 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/2d09beb7-69af-4466-984b-d154c78d3da5" width="560" controls muted playsinline></video>
 
 **提示詞:**
 
@@ -240,7 +240,7 @@ Referee raises hand and starts counting down: eng::**"3... 2... 1..."**.
 
 一句話的笑點：起勢、搖晃、落水，結構清楚。
 
-<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-05#action-05"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-05.webp" width="560" alt="日本綜藝風落水挑戰 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/02455e94-042b-4a6e-8ccf-780ebd96ae0f" width="560" controls muted playsinline></video>
 
 **提示詞:**
 
@@ -277,7 +277,7 @@ Prompt 👇
 
 先寫場景與氛圍，把光線與天氣定好再寫動作。
 
-<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-06#action-06"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-06.webp" width="560" alt="暴雨夜攀爬灌水植物塔 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/6bd8ca67-dd3c-4d4f-b8c3-4f27f3a55622" width="560" controls muted playsinline></video>
 
 **提示詞:**
 
@@ -292,7 +292,7 @@ Scene and Mood: A lone figure climbs upward through a flooding vertical botanica
 
 禁用仙術與飛行，讓打鬥落在重量與慣性上。
 
-<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-07#action-07"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-07.webp" width="560" alt="雨中破廟三分鐘武俠劍戲 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/988d611b-8739-49bd-93ef-a6feab052e89" width="560" controls muted playsinline></video>
 
 **提示詞:**
 
@@ -339,7 +339,7 @@ Scene and Mood: A lone figure climbs upward through a flooding vertical botanica
 
 寫明鏡頭從不切換，改用場面升級推進。
 
-<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-08#action-08"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-08.webp" width="560" alt="三十秒不間斷的動作長鏡頭 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/48537acf-c26f-4ff7-9ae9-4612f08df4b4" width="560" controls muted playsinline></video>
 
 **提示詞:**
 
@@ -472,7 +472,7 @@ Photorealistic live action, IMAX cinematic realism, ultra-detailed environments,
 
 點名流暢的空中調度與快剪，是可直接替換主體的模板。
 
-<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-09#action-09"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-09.webp" width="560" alt="電影規模的空中動作奇觀 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/2fc1428b-81d2-4a62-82f1-60fece72e471" width="560" controls muted playsinline></video>
 
 **提示詞:**
 
@@ -537,7 +537,7 @@ Sound design: soaring cinematic orchestra, thunderous percussion, deep brass, ro
 
 每個鏡頭單獨寫攝影參數，並把光影分成前中後三層。
 
-<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-10#action-10"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-10.webp" width="560" alt="一戰空戰，逐鏡頭寫明攝影參數 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/cca208f7-3424-442d-a870-bf1184ebf001" width="560" controls muted playsinline></video>
 
 **提示詞:**
 
@@ -586,7 +586,7 @@ Sound design: soaring cinematic orchestra, thunderous percussion, deep brass, ro
 
 從圖片取視覺語言，並加上「無魔法、無隨意破壞」的限制。
 
-<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-11#action-11"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-11.webp" width="560" alt="低機位下兩名武者對撞 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/55bb6f6f-a9f8-40e2-975a-6ffd33732830" width="560" controls muted playsinline></video>
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -639,7 +639,7 @@ Maintain consistent faces, bodies and clothing throughout. Exactly two fighters,
 
 把舞蹈旋轉與刀戰合在同一個 3D 寫實風格裡。
 
-<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-12#action-12"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-12.webp" width="560" alt="現代舞與幽靈刀戰的融合 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/dfc2aaae-dcff-48e8-8362-5e3b9f11b485" width="560" controls muted playsinline></video>
 
 **提示詞:**
 

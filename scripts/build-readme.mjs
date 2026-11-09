@@ -12,6 +12,8 @@ const read = (path) => JSON.parse(readFileSync(new URL(path, root), 'utf8'));
 const { config, featured, page, cards } = read('data/library.json');
 const repo = read('data/repo.json');
 const videos = existsSync(new URL('data/videos.json', root)) ? read('data/videos.json') : {};
+// Videos cut to their first minutes to fit GitHub's 10 MB attachment limit.
+const trimmed = new Set(repo.trimmed ?? []);
 const gifs = new Set(existsSync(new URL('assets/gif', root)) ? (repo.gifs ?? []) : []);
 
 const SITE = 'https://apiko.app';
@@ -47,6 +49,7 @@ const LOCALES = {
     needsRef: { video: 'Upload your own reference image or clip for this one.', image: 'Upload your own reference image for this one.', text: '' },
     sec: 's',
     openCategory: (name, n) => `All ${n} ${name} cases`,
+    trimmed: 'First 4 minutes only; the full video is on',
     backToTop: 'Back to the README', pages: 'Pages', next: 'Next page',
     categoryPage: (n) => `${n} cases on this page. The prompts are not translated.`,
     sameAs: 'The same collection in other languages',
@@ -72,6 +75,7 @@ const LOCALES = {
     needsRef: { video: '这条需要你自己上传参考图或参考视频。', image: '这条需要你自己上传参考图。', text: '' },
     sec: ' 秒',
     openCategory: (name, n) => `查看「${name}」全部 ${n} 条`,
+    trimmed: '这里只放前 4 分钟，完整视频见',
     backToTop: '返回 README', pages: '分页', next: '下一页',
     categoryPage: (n) => `本页共 ${n} 条。提示词保持原文，未翻译。`,
     sameAs: '其他语言版本',
@@ -97,6 +101,7 @@ const LOCALES = {
     needsRef: { video: '這則需要你自己上傳參考圖或參考影片。', image: '這則需要你自己上傳參考圖。', text: '' },
     sec: ' 秒',
     openCategory: (name, n) => `查看「${name}」全部 ${n} 則`,
+    trimmed: '這裡只放前 4 分鐘，完整影片見',
     backToTop: '回到 README', pages: '分頁', next: '下一頁',
     categoryPage: (n) => `本頁共 ${n} 則。提示詞保持原文，未翻譯。`,
     sameAs: '其他語言版本',
@@ -122,6 +127,7 @@ const LOCALES = {
     needsRef: { video: '이 예시는 참조 이미지나 영상을 직접 올려야 합니다.', image: '이 예시는 참조 이미지를 직접 올려야 합니다.', text: '' },
     sec: '초',
     openCategory: (name, n) => `${name} 전체 ${n}개 보기`,
+    trimmed: '앞 4분만 담았습니다. 전체 영상:',
     backToTop: 'README로 돌아가기', pages: '페이지', next: '다음 페이지',
     categoryPage: (n) => `이 페이지에 ${n}개가 있습니다. 프롬프트는 번역하지 않은 원문입니다.`,
     sameAs: '다른 언어',
@@ -168,7 +174,7 @@ function helpers(locale) {
 
   function media(card, file, width, alt, link, up) {
     const name = file;
-    if (videos[name]) return `<video src="${videos[name]}" width="${width}" controls muted playsinline></video>`;
+    if (videos[name]) return `<video src="${videos[name]}" width="${width}" controls muted playsinline></video>${trimmed.has(name) ? `<br><sub>${L.trimmed} [apiko.app](${link})</sub>` : ''}`;
     if (gifs.has(card.id) && file === card.media.files[0]) return `<a href="${link}"><img src="${up}assets/gif/${card.id}.gif" width="${width}" alt="${esc(alt)}"></a>`;
     const src = file.endsWith('.mp4') ? card.media.poster : file;
     return `<a href="${link}"><img src="${MEDIA}${src}" width="${width}" alt="${esc(alt)}"></a>`;

@@ -35,7 +35,7 @@
 
 把一个不间断镜头切成若干时间段，每几秒规划一次镜头走向。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=long-form-01#long-form-01"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/long-form-01.webp" width="560" alt="伦敦地下电音俱乐部 30 秒不切镜 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/d857c60c-ed4f-4b6b-99d1-0e0a9a979c42" width="560" controls muted playsinline></video>
 
 **提示词:**
 
@@ -70,7 +70,7 @@ The overall image should feel raw, naturalistic and grounded, with visible film 
 
 只写一条穿城飞行路线，镜头不需要切换。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=long-form-02#long-form-02"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/long-form-02.webp" width="560" alt="史诗奇幻长镜头，一气呵成 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/e543804f-7ed7-444c-a52d-44ecfd0bf4e2" width="560" controls muted playsinline></video>
 
 **提示词:**
 
@@ -188,7 +188,7 @@ Keep the protagonist, broom, flying direction, city geography, and lighting tran
 
 反复强调不摇不推不切，只能靠场面调度推进。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=long-form-03#long-form-03"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/long-form-03.webp" width="560" alt="固定机位不动的 30 秒 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/8043e294-68f9-4215-af11-4655dc0f0787" width="560" controls muted playsinline></video>
 
 **提示词:**
 
@@ -203,7 +203,7 @@ A 30 second film from ONE completely locked, static camera position that never m
 
 从酒店到街头按时间顺序走完一天，像自拍日志。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=long-form-04#long-form-04"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/long-form-04.webp" width="560" alt="自己拍完的纽约一天 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/0ecc7342-89de-4602-bfe9-6e0f2ec21537" width="560" controls muted playsinline></video>
 
 > 📎 这条需要你自己上传参考图或参考视频。
 
@@ -222,7 +222,7 @@ SCENE A day in New York shot entirely by the subject herself: waking in her hote
 
 把切点精确到半秒，每个镜头多长都由你定。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=long-form-05#long-form-05"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/long-form-05.webp" width="560" alt="只在指定时间码硬切 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/ab0d1634-dca8-47f8-bacb-a7aa3532ffe9" width="560" controls muted playsinline></video>
 
 > 📎 这条需要你自己上传参考图或参考视频。
 
@@ -278,7 +278,7 @@ The video ends on the held profile of the rider stopped at the cliff edge, facin
 
 全程第一人称不切镜，故事由通勤路线本身承担。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=long-form-06#long-form-06"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/long-form-06.webp" width="560" alt="日本海边通勤，一镜到底第一人称 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/82d6fe59-0fa3-40ee-acb7-66569b3f88e8" width="560" controls muted playsinline></video>
 
 **提示词:**
 
@@ -307,7 +307,7 @@ Technical spec: continuous POV, first-person, no cuts or transitions, natural ha
 
 像剧本一样排版，每个节拍写时间段、镜头名和物理说明。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=long-form-07#long-form-07"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/long-form-07.webp" width="560" alt="带时间戳的脚本与分镜 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/419bcd52-c1f1-408d-bb7b-971c33dca46f" width="560" controls muted playsinline></video>
 
 **提示词:**
 

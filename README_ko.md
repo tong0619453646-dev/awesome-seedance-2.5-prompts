@@ -21,7 +21,7 @@
 
 **Seedance 2.5 프롬프트 88개와 결과 영상. 원테이크·카메라 워크·참조 이미지 예시를 복사해 APIKO에서 실행하세요.**
 
-Seedance 2.5 프롬프트를 복사하고, 만들어진 영상을 확인한 뒤, 텍스트가 채워진 모델 페이지로 바로 보내세요.
+Seedance 2.5 프롬프트를 복사하고, 만들어진 영상을 확인한 뒤, 텍스트가 채워진 모델 페이지로 바로 보내세요. 결과 영상은 모두 GitHub에서 바로 재생됩니다.
 
 검색과 필터는 [apiko.app/seedance-2-5-prompts](https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-prompts&utm_content=intro).
 
@@ -104,7 +104,7 @@ done
 
 끊김 없는 한 샷을 시간 구간으로 나눠 카메라 동선을 초 단위로 계획합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=long-form-01#long-form-01"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/long-form-01.webp" width="560" alt="런던 테크노 클럽 30초 무컷 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/d857c60c-ed4f-4b6b-99d1-0e0a9a979c42" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 
@@ -139,7 +139,7 @@ The overall image should feel raw, naturalistic and grounded, with visible film 
 
 화살표로 단계를 한 줄에 이어 줌이 멈추지 않게 합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-14#cinematic-14"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-14.webp" width="560" alt="궤도에서 잎사귀 위 빗방울까지 한 번의 낙하 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/4ab3c6b9-bbd8-4f66-b5fb-8b68d95be0e1" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 
@@ -154,7 +154,7 @@ One continuous fall. Orbit → atmosphere → storm → mountains → forest →
 
 영상이 실체가 되는 한 장면에만 묘사를 집중합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-03#cinematic-03"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-03.webp" width="560" alt="폐관된 천문관에서 현실이 되는 투영 달 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/5da73dfc-324e-4eb6-98f3-815269dffa89" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 
@@ -169,7 +169,7 @@ An elderly night janitor cleans an abandoned Art Deco planetarium during a thund
 
 카메라 바디와 렌즈 구성을 적고 연속 카메라 이동 하나를 설계합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-10#cinematic-10"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-10.webp" width="560" alt="아나모픽 원테이크, 렌즈까지 지정 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/b3197de5-6b40-4063-8af1-acde62a7366e" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 
@@ -194,7 +194,7 @@ Maintain one continuous uninterrupted shot, seamless transitions, consistent cha
 
 초점거리와 조리개를 먼저 정하고 컷마다 다른 렌즈를 줍니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=animation-02#animation-02"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/animation-02.webp" width="560" alt="컷마다 렌즈가 바뀌는 애니 영화 룩 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/657fdadc-d06f-4de6-9b9d-c6b8579039d5" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 
@@ -436,7 +436,7 @@ capcutcpp & capcutseedance25
 
 셀카 시점 오프닝을 먼저 못박고 카메라 설명으로 DV 질감을 끝까지 유지합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-01#documentary-01"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-01.webp" width="560" alt="핸드헬드 DV 새벽 강아지 산책 브이로그 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/3cd0e2a4-0eb2-4277-94f6-ea43e1d484dd" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 

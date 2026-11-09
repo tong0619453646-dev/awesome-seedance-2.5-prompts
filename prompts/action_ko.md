@@ -40,7 +40,7 @@
 
 참조 이미지 두 장을 주인공과 적으로 고정하고 전투를 엄격한 구조로 짭니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-01#action-01"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-01.webp" width="560" alt="침수된 지하철 정비홀의 30초 근접전 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/b677d7cf-1794-4a2c-95d7-75843c8a8533" width="560" controls muted playsinline></video>
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -145,7 +145,7 @@
 
 슬로모션과 빠른 컷을 섞고 천·나무 조각 같은 실제 물리를 짚습니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-02#action-02"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-02.webp" width="560" alt="고풍 객잔 무협 액션 코미디 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/97d835e2-f27d-4c8a-b0d2-85527ccb333d" width="560" controls muted playsinline></video>
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -193,7 +193,7 @@ A和B保持着帅气的接杀姿势僵在原地，剑和筷子还举着，齐刷
 
 대결 전에 참조 이미지별 역할을 나열하고 색상 팔레트를 덧붙입니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-03#action-03"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-03.webp" width="560" alt="호뢰관 대결, 인물은 참조 이미지에서 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/23baad18-f2d4-436c-b277-06f2e99ecca9" width="560" controls muted playsinline></video>
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -216,7 +216,7 @@ Image 3
 
 4초 구간마다 동작 하나만 적어 싸움의 흐름이 읽히게 합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-04#action-04"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-04.webp" width="560" alt="경기장 대결, 초 단위 비트별 작성 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/2d09beb7-69af-4466-984b-d154c78d3da5" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 
@@ -240,7 +240,7 @@ Referee raises hand and starts counting down: eng::**"3... 2... 1..."**.
 
 준비·휘청임·입수가 분명한 한 줄짜리 개그 설정입니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-05#action-05"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-05.webp" width="560" alt="일본 예능식 낙수 챌린지 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/02455e94-042b-4a6e-8ccf-780ebd96ae0f" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 
@@ -277,7 +277,7 @@ Prompt 👇
 
 장면과 분위기를 먼저 써서 조명과 날씨를 정한 뒤 동작을 적습니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-06#action-06"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-06.webp" width="560" alt="폭풍우 밤, 물에 잠기는 식물 타워 등반 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/6bd8ca67-dd3c-4d4f-b8c3-4f27f3a55622" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 
@@ -292,7 +292,7 @@ Scene and Mood: A lone figure climbs upward through a flooding vertical botanica
 
 마법과 비행을 금지해 무게와 관성에 기반한 싸움으로 만듭니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-07#action-07"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-07.webp" width="560" alt="빗속 폐사원의 3분 무협 검극 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/988d611b-8739-49bd-93ef-a6feab052e89" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 
@@ -339,7 +339,7 @@ Scene and Mood: A lone figure climbs upward through a flooding vertical botanica
 
 카메라가 절대 컷하지 않는다고 못박고 장면 확대로 전개합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-08#action-08"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-08.webp" width="560" alt="끊김 없는 30초 액션 원테이크 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/48537acf-c26f-4ff7-9ae9-4612f08df4b4" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 
@@ -472,7 +472,7 @@ Photorealistic live action, IMAX cinematic realism, ultra-detailed environments,
 
 유려한 공중 연출과 빠른 편집을 지정한, 주제를 바꿔 쓸 수 있는 틀입니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-09#action-09"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-09.webp" width="560" alt="장편 영화 규모의 공중 액션 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/2fc1428b-81d2-4a62-82f1-60fece72e471" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 
@@ -537,7 +537,7 @@ Sound design: soaring cinematic orchestra, thunderous percussion, deep brass, ro
 
 샷별 카메라 설정을 적고 조명을 전경·중경·후경 3층으로 나눕니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-10#action-10"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-10.webp" width="560" alt="1차대전 공중전, 샷마다 카메라 지정 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/cca208f7-3424-442d-a870-bf1184ebf001" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 
@@ -586,7 +586,7 @@ Sound design: soaring cinematic orchestra, thunderous percussion, deep brass, ro
 
 이미지에서 시각 언어를 가져오고 마법·임의 파괴 금지를 덧붙입니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-11#action-11"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-11.webp" width="560" alt="로우앵글로 맞붙는 두 무술가 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/55bb6f6f-a9f8-40e2-975a-6ffd33732830" width="560" controls muted playsinline></video>
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -639,7 +639,7 @@ Maintain consistent faces, bodies and clothing throughout. Exactly two fighters,
 
 무용 회전과 검술 두 동작 체계를 하나의 3D 실사 룩에 융합합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-12#action-12"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-12.webp" width="560" alt="현대무용과 영체 검투의 결합 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/dfc2aaae-dcff-48e8-8362-5e3b9f11b485" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 

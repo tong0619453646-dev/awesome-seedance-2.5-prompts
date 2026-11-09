@@ -36,7 +36,7 @@ by [@Ciri_ai](https://x.com/Ciri_ai) · 106s · 16:9 · **[▶ Run on APIKO](htt
 
 Sets the style rules first and forbids rigid cuts, so every transition morphs into the next.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=animation-01#animation-01"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/animation-01.webp" width="560" alt="Hand-drawn animation with fluid transitions, no hard cuts – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/421e4c80-194d-4bf4-b766-3e49ba0e3b27" width="560" controls muted playsinline></video>
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -147,7 +147,7 @@ by [@studio_oneroom](https://x.com/studio_oneroom) · 30s · 16:9 · **[▶ Run 
 
 Names a focal length and aperture up front, then gives each cut its own lens.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=animation-02#animation-02"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/animation-02.webp" width="560" alt="Anime film look with a different lens on every cut – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/657fdadc-d06f-4de6-9b9d-c6b8579039d5" width="560" controls muted playsinline></video>
 
 **Prompt:**
 
@@ -389,7 +389,7 @@ by [@aiehon_aya](https://x.com/aiehon_aya) · 30s · 16:9 · **[▶ Run on APIKO
 
 Excludes music, speech and text, then describes the line colour and palette.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=animation-03#animation-03"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/animation-03.webp" width="560" alt="Neo-retro flat 2D anime, ambient sound only – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/ab805c13-0354-49bb-89ab-9d49189127ca" width="560" controls muted playsinline></video>
 
 **Prompt:**
 
@@ -558,7 +558,7 @@ by [@jaynwabueze](https://x.com/jaynwabueze) · 30s · 16:9 · **[▶ Run on API
 
 Lists the cartoon proportions in words: big heads, big eyes, exaggerated poses.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=animation-04#animation-04"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/animation-04.webp" width="560" alt="Family-animation look, oversized heads – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/42e45c9d-77cb-4121-978e-ef72e4190f5e" width="560" controls muted playsinline></video>
 
 **Prompt:**
 
@@ -634,7 +634,7 @@ by [@yachimat_manga](https://x.com/yachimat_manga) · 24s · 16:9 · **[▶ Run 
 
 Uses a structured key-value layout, with a camera path rather than a list of cuts.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=animation-05#animation-05"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/animation-05.webp" width="560" alt="Anime opening as one continuous fly-through – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/b8dd65c5-833d-4167-91e0-ef7a3a40ac64" width="560" controls muted playsinline></video>
 
 **Prompt:**
 
@@ -649,7 +649,7 @@ by [@huyanimation](https://x.com/huyanimation) · 15s · 16:9 · **[▶ Run on A
 
 Each shot has a duration in seconds, starting with an extreme close-up.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=animation-06#animation-06"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/animation-06.webp" width="560" alt="A dragon's eye opens, timed shot by shot – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/0ad89423-c85e-44f4-9599-1098fa03f520" width="560" controls muted playsinline></video>
 
 **Prompt:**
 
@@ -676,7 +676,7 @@ by [@jaynwabueze](https://x.com/jaynwabueze) · 30s · 16:9 · **[▶ Run on API
 
 Same cartoon-proportion recipe, with a different scene dropped in.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=animation-07#animation-07"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/animation-07.webp" width="560" alt="Family-animation look, oversized heads, second take – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/64d0b360-52cd-4354-8971-8d1d132bd388" width="560" controls muted playsinline></video>
 
 **Prompt:**
 
@@ -763,7 +763,7 @@ by [@Artedeingenio](https://x.com/Artedeingenio) · 30s · 16:9 · **[▶ Run on
 
 Names fluid sakuga animation and fast editing as the target for action.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=animation-08#animation-08"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/animation-08.webp" width="560" alt="Sakuga-grade anime action – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/a4b7f7d7-4234-4872-8464-ef44aacae450" width="560" controls muted playsinline></video>
 
 **Prompt:**
 

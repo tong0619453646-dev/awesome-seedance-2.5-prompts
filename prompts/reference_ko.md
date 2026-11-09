@@ -42,7 +42,7 @@
 
 업로드한 이미지를 모두 쓰고 컷을 음원 박자에 맞추라고 지시합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-01#reference-01"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-01.webp" width="560" alt="이미지 14장과 오디오로 만든 뮤직비디오 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/e00778c7-5f40-40fe-abc5-52a50cb6fbc8" width="560" controls muted playsinline></video>
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -65,7 +65,7 @@ Use the uploaded 30-second audio as the only soundtrack. Make it a powerful dubs
 
 참조 이미지에서 가져올 특징을 항목별로 쓰고 배경은 무시하라고 합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-02#reference-02"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-02.webp" width="560" alt="R2V 모드: 캐릭터만 가져오기 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/0a8a92de-67e0-4b93-98da-8ec656c598f0" width="560" controls muted playsinline></video>
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -82,7 +82,7 @@ Use the uploaded 30-second audio as the only soundtrack. Make it a powerful dubs
 
 새 이미지가 이전 참조를 덮어쓴다고 명시해 인물 변형을 막습니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-03#reference-03"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-03.webp" width="320" alt="이미지 한 장이 이전 참조를 모두 대체 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/157d397e-189d-4ce5-a607-b1893020c0e2" width="320" controls muted playsinline></video>
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -131,7 +131,7 @@ Finish on the full stadium bowl: tens of thousands of people across every tier p
 
 이미지를 첫 프레임으로 지정하고 의상을 다시 묘사해 외모를 유지합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-04#reference-04"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-04.webp" width="560" alt="첫 프레임에 인물 고정 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/cfee9b0d-2821-4247-a3c8-3dfd7d52a77e" width="560" controls muted playsinline></video>
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -149,7 +149,7 @@ image_1 — straight black hair, white short-sleeve collared shirt, navy pleated
 
 캐릭터마다 시트 태그를 주고 얼굴과 의상 모두 유지하라고 합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-05#reference-05"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-05.webp" width="560" alt="캐릭터 시트 두 장으로 얼굴·의상 고정 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/b3ca5dae-ba0a-41b5-9a7c-b6f30ff6b0db" width="560" controls muted playsinline></video>
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -166,7 +166,7 @@ Preserve the exact identity and wardrobe of the male target @target_character_sh
 
 이미지 세 장에 역할을 나눠 만화와 실사를 한 장면에 섞습니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-06#reference-06"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-06.webp" width="560" alt="만화 불독 대 실사 복서 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/b524b5e7-cc01-4ec9-b68b-b4c1133190f8" width="560" controls muted playsinline></video>
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -235,7 +235,7 @@ Final slightly high-angle wide shot. The referee brings the bulldog to the cente
 
 IDENTITY 줄로 시작해 이미지가 제공할 요소만 한정합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-07#reference-07"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-07.webp" width="560" alt="참조 이미지는 인물 정체성만 제공 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/27ad4a8f-6ff7-4fdc-bd67-c5b32f36e004" width="560" controls muted playsinline></video>
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -254,7 +254,7 @@ IDENTITY: @Image1 supplies identity only — face, long black hair, low-brim cap
 
 화풍·붓터치·색을 먼저 고정하고 움직일 부분만 적습니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-08#reference-08"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-08.webp" width="560" alt="원화는 고정, 움직일 부분만 애니메이션 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/2cf2f84d-9316-4f59-b762-f443e5d4d7cc" width="560" controls muted playsinline></video>
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -295,7 +295,7 @@ Now completely full, the dragons happily fly back through sunset clouds carrying
 
 캐릭터 이미지에 번호를 붙이고 무기와 역할을 하나씩 배정합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-09#reference-09"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-09.webp" width="560" alt="참조 18장으로 만든 사이버 무협 예고편 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/6dd7d6b4-75ff-4632-bdd4-44de9a7bbc8a" width="560" controls muted playsinline></video>
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -337,7 +337,7 @@ Now completely full, the dragons happily fly back through sunset clouds carrying
 
 이미지마다 얼굴·설정화·실사 분위기 중 한 가지 역할만 줍니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-10#reference-10"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-10.webp" width="560" alt="고딕 롤리타 쌍둥이, 역할이 다른 참조 3장 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/23da1631-4654-4cbb-8dca-49e838d6df62" width="560" controls muted playsinline></video>
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -414,7 +414,7 @@ Image1の構図の複製。壁の十字架、磔刑像、宗教記号。流血�
 
 화풍과 질감을 고정하고 시간에 따른 움직임만 적습니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-11#reference-11"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-11.webp" width="560" alt="일러스트는 고정, 30초간의 움직임 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/1f7a8908-0c1a-43dc-b752-f001aac1f3e3" width="560" controls muted playsinline></video>
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -463,7 +463,7 @@ A majestic vertical drone shot rises high into the sky. The flood forms beautifu
 
 이름·머리색·드레스로 캐릭터를 쓰고 이미지 태그에 연결합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-12#reference-12"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-12.webp" width="560" alt="암흑 마도사 셀레스티아, 이미지1 기준 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/dd84f148-bca6-4716-8129-4a4aa4a443cb" width="560" controls muted playsinline></video>
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -599,7 +599,7 @@ SFX：
 
 한 이미지의 머리·갑옷·재킷·부츠·검을 항목별로 나열합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-13#reference-13"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-13.webp" width="320" alt="이미지 한 장으로 전사·갑옷·검 고정 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/2daf26b1-3343-4d79-b2f7-513aefcc8359" width="320" controls muted playsinline></video>
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -637,7 +637,7 @@ Ultra-premium fantasy fashion editorial, sensual but powerful warrior energy, im
 
 이미지에서 스타일 단서만 가져오고 실존 인물을 닮지 않게 명시합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-14#reference-14"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-14.webp" width="560" alt="캐릭터 참조 1장을 가상 인물로 재구성 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/c237a42a-e898-4e81-8ea4-f1b7a03f3e2e" width="560" controls muted playsinline></video>
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 

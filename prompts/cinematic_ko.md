@@ -51,7 +51,7 @@
 
 고증된 옛 방에서 시작해 불가능한 사건 하나로 깨뜨립니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-01#cinematic-01"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-01.webp" width="560" alt="19세기 실내의 10초 실사 환영 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/a795e3ac-e808-458f-bd7e-44c15a2048ad" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 
@@ -66,7 +66,7 @@ Create a ten second cinematic live action illusion in a sixteen by nine frame at
 
 원형 비네팅과 휘어진 가장자리라는 렌즈 효과 하나로 프롬프트를 끌고 갑니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-02#cinematic-02"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-02.webp" width="560" alt="어안 도어스코프로 본 문밖 시점 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/a0b48edb-fa7c-4609-96c7-4044f48254b5" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 
@@ -81,7 +81,7 @@ A realistic doorway peephole POV video shot through a ultra wide fisheye lens wi
 
 영상이 실체가 되는 한 장면에만 묘사를 집중합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-03#cinematic-03"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-03.webp" width="560" alt="폐관된 천문관에서 현실이 되는 투영 달 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/5da73dfc-324e-4eb6-98f3-815269dffa89" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 
@@ -96,7 +96,7 @@ An elderly night janitor cleans an abandoned Art Deco planetarium during a thund
 
 필름 종류·입자·실제 조명 단어를 쌓아 시대감을 만듭니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-04#cinematic-04"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-04.webp" width="560" alt="1980년대 35mm 네온과 스트로브 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/9a1bfe5d-13fb-47c6-8cd7-c1eca2f2a138" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 
@@ -118,7 +118,7 @@ An elderly night janitor cleans an abandoned Art Deco planetarium during a thund
 
 필름 시대 어휘를 STYLE로 먼저 쓰고 짧은 장면을 얹습니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-05#cinematic-05"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-05.webp" width="560" alt="흑백 35mm 카페 예술영화 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/d26f6d43-23f9-494b-a75e-d4aa1c2f9cd8" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 
@@ -234,7 +234,7 @@ The video ends on the held close-up of the woman's face, the image full and lit 
 
 땅의 진동과 물보라로 거대한 크기를 표현합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-06#cinematic-06"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-06.webp" width="560" alt="호수를 건너는 거인과 뒤따르는 용 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/1045ee1e-70be-4029-bd3f-5c8aa10d78e4" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 
@@ -253,7 +253,7 @@ A fast-paced action scene with realistic cinematography.
 
 날씨와 물 색을 먼저 적어 인물이 움직이기 전에 분위기를 잡습니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-07#cinematic-07"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-07.webp" width="560" alt="홍수에 잠긴 마을의 서바이벌 스릴러 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/df0e5cc6-e8db-4d9d-9948-c7f02ce59fe0" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 
@@ -300,7 +300,7 @@ Sound: helicopter roar, screaming metal, collapse splash, panicked yelling, wate
 
 선수 한 명, 점프 한 번, 한 순간만 적어 슬로모션이 깔끔합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-08#cinematic-08"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-08.webp" width="560" alt="올림픽 배드민턴 스매시 슬로모션 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/a06eed6e-938c-4842-86cb-af1150783b9e" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 
@@ -315,7 +315,7 @@ A cinematic slow-motion shot of a professional Caucasian male badminton player c
 
 캔디 컬러 세트와 군무를 쓰고 동작을 박자에 묶습니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-09#cinematic-09"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-09.webp" width="560" alt="비트에 맞춘 Y2K 듀오 뮤직비디오 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/8b3fc1b7-62ec-421f-b1e0-9632fbc984c6" width="560" controls muted playsinline></video>
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -366,7 +366,7 @@ Hard cut at 13.0s. 13.0–15.0s Set A, 47°: back-to-back frozen final pose, cam
 
 카메라 바디와 렌즈 구성을 적고 연속 카메라 이동 하나를 설계합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-10#cinematic-10"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-10.webp" width="560" alt="아나모픽 원테이크, 렌즈까지 지정 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/b3197de5-6b40-4063-8af1-acde62a7366e" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 
@@ -391,7 +391,7 @@ Maintain one continuous uninterrupted shot, seamless transitions, consistent cha
 
 짧은 코미디를 대사가 든 시간 비트로 나눕니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-11#cinematic-11"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-11.webp" width="320" alt="뷰티 필터가 살아나는 세로형 코미디 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/cbc2b963-8875-47ac-8c2d-940b33985921" width="320" controls muted playsinline></video>
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -449,7 +449,7 @@ Maintain one continuous uninterrupted shot, seamless transitions, consistent cha
 
 0.0~2.0초 단위로 쓰고 전반은 긴장, 후반은 질주로 나눕니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-12#cinematic-12"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-12.webp" width="560" alt="갑옷과 말, 예고편처럼 편집 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/4d90e7aa-d673-47f9-99d8-86477b7fcde0" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 
@@ -528,7 +528,7 @@ Maintain one continuous uninterrupted shot, seamless transitions, consistent cha
 
 사실적인 조명 표현에 일부러 깨뜨린 물리 법칙을 섞습니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-13#cinematic-13"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-13.webp" width="560" alt="현실 같은 빛, 불가능한 물리 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/df665854-578d-4d3c-8613-aea6809f87b3" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 
@@ -555,7 +555,7 @@ Hyper-detailed, breathtaking surreal world-building, perfect motion continuity, 
 
 화살표로 단계를 한 줄에 이어 줌이 멈추지 않게 합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-14#cinematic-14"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-14.webp" width="560" alt="궤도에서 잎사귀 위 빗방울까지 한 번의 낙하 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/4ab3c6b9-bbd8-4f66-b5fb-8b68d95be0e1" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 
@@ -570,7 +570,7 @@ One continuous fall. Orbit → atmosphere → storm → mountains → forest →
 
 틈새로 밀고 들어가 컷 없이 두 공간을 잇습니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-15#cinematic-15"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-15.webp" width="560" alt="붉은 커튼을 통과하는 원테이크 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/ef5adb90-28f8-4a7f-8449-0b830f02e700" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 
@@ -585,7 +585,7 @@ One-take handheld gimbal tracking shot. The camera slowly pushes in through a ga
 
 짧은 인물 설명 옆에 스테레오 사운드를 명시합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-16#cinematic-16"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-16.webp" width="560" alt="동기 스테레오 사운드의 여성 탐험가 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/b20fd530-611e-4527-b069-b52c2564a4f6" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 
@@ -616,7 +616,7 @@ Priorities: absolute character and wardrobe consistency, stable hummingbird desi
 
 논리적으로 연결된 샷과 변신 전후 인물 일관성을 요구합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-17#cinematic-17"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-17.webp" width="560" alt="이어지는 샷으로 연출한 마법 변신 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/6045f78e-e9a3-4258-9d22-6d80f6db0014" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 
@@ -647,7 +647,7 @@ Priorities: absolute character and wardrobe consistency, stable hummingbird desi
 
 다큐 스타일과 시간대를 짚고 빛으로 분위기를 만듭니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-18#cinematic-18"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-18.webp" width="560" alt="자연 다큐 스타일의 야생 아침 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/7b418fcc-d3b9-4beb-b322-8c6d922a60cb" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 
@@ -681,7 +681,7 @@ NEGATIVE: No captions, text, logos, watermark, background music, cartoon eyes, e
 
 포맷과 빛의 각도로 톤을 정하고 인물은 한 줄로 설명합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-19#cinematic-19"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-19.webp" width="560" alt="IMAX 아나모픽, 젖은 바닥에 낮은 직사광 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/74f5de20-acce-4414-b2da-02ff3822102c" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 
@@ -709,7 +709,7 @@ AUDIO: Renteria only by radio, thin, tinny, filtered, click each side. Jan answe
 
 70~80년대 우주 영화를 언급하고 대칭적이고 느린 구도를 요구합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-20#cinematic-20"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-20.webp" width="560" alt="레트로 스페이스 오페라, 실물 특수효과 룩 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/00b64f6e-21d1-44d2-8183-05175b0dce0a" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 
@@ -772,7 +772,7 @@ Dialogue: “So be weird. Be honest. Make the thing only you would make.” “W
 
 인물 하나와 공간 하나에, 글자와 변형을 배제하는 금지 목록을 붙입니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-21#cinematic-21"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-21.webp" width="560" alt="한밤 수하물 홀의 지친 청소부 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/54a029ca-684d-43aa-8f83-9c3886586e27" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 
@@ -815,7 +815,7 @@ Continuity constraints: Preserve one cleaner, one mop, one terminal layout and o
 
 전체 룩을 먼저 정하고 속도와 방향이 바뀌는 장면을 나눕니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-22#cinematic-22"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-22.webp" width="560" alt="정사각 화면의 지하철 공포, 스트로브와 그림자 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/f2838868-f395-41f2-8c91-af3b835df630" width="560" controls muted playsinline></video>
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -852,7 +852,7 @@ Continuity constraints: Preserve one cleaner, one mop, one terminal layout and o
 
 베트남어로 쓰고 인물과 장면을 구획해 표시합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-23#cinematic-23"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-23.webp" width="560" alt="베트남어로 쓴 베트남 농부 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/9cb82d6b-5999-41d3-8892-5d415b83f364" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 

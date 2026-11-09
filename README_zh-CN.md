@@ -21,7 +21,7 @@
 
 **Seedance 2.5 提示词：88 条可复制的视频提示词，附成片示例，涵盖一镜到底、运镜、参考图等写法，可直接在 APIKO 运行。**
 
-复制一条 Seedance 2.5 提示词，看它生成的片子，再一键带着文字送到模型页运行。
+复制一条 Seedance 2.5 提示词，看它生成的片子，再一键带着文字送到模型页运行。 所有成片都能在 GitHub 页面上直接播放。
 
 在线搜索和筛选： [apiko.app/seedance-2-5-prompts](https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-prompts&utm_content=intro).
 
@@ -104,7 +104,7 @@ done
 
 把一个不间断镜头切成若干时间段，每几秒规划一次镜头走向。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=long-form-01#long-form-01"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/long-form-01.webp" width="560" alt="伦敦地下电音俱乐部 30 秒不切镜 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/d857c60c-ed4f-4b6b-99d1-0e0a9a979c42" width="560" controls muted playsinline></video>
 
 **提示词:**
 
@@ -139,7 +139,7 @@ The overall image should feel raw, naturalistic and grounded, with visible film 
 
 用一行箭头串起每个阶段，镜头不停。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-14#cinematic-14"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-14.webp" width="560" alt="一次坠落，从轨道到叶上雨滴 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/4ab3c6b9-bbd8-4f66-b5fb-8b68d95be0e1" width="560" controls muted playsinline></video>
 
 **提示词:**
 
@@ -154,7 +154,7 @@ One continuous fall. Orbit → atmosphere → storm → mountains → forest →
 
 只写一个剧情转折：影像变成实体，细节都花在这里。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-03#cinematic-03"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-03.webp" width="560" alt="废弃天文馆里，投影的月亮变成真的 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/5da73dfc-324e-4eb6-98f3-815269dffa89" width="560" controls muted playsinline></video>
 
 **提示词:**
 
@@ -169,7 +169,7 @@ An elderly night janitor cleans an abandoned Art Deco planetarium during a thund
 
 写明机身和镜头组，再规划一条连续运镜。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-10#cinematic-10"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-10.webp" width="560" alt="变形宽银幕一镜到底，镜头型号写到底 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/b3197de5-6b40-4063-8af1-acde62a7366e" width="560" controls muted playsinline></video>
 
 **提示词:**
 
@@ -194,7 +194,7 @@ Maintain one continuous uninterrupted shot, seamless transitions, consistent cha
 
 先写明焦距和光圈，再给每个切镜指定自己的镜头。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=animation-02#animation-02"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/animation-02.webp" width="560" alt="每个镜头换一支镜头的动画电影质感 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/657fdadc-d06f-4de6-9b9d-c6b8579039d5" width="560" controls muted playsinline></video>
 
 **提示词:**
 
@@ -436,7 +436,7 @@ capcutcpp & capcutseedance25
 
 先规定自拍视角开场，再用机位说明把 DV 质感贯穿到底。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-01#documentary-01"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-01.webp" width="560" alt="手持 DV 清晨遛狗 vlog – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/3cd0e2a4-0eb2-4277-94f6-ea43e1d484dd" width="560" controls muted playsinline></video>
 
 **提示词:**
 

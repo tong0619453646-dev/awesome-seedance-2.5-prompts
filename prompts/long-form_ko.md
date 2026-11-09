@@ -35,7 +35,7 @@
 
 끊김 없는 한 샷을 시간 구간으로 나눠 카메라 동선을 초 단위로 계획합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=long-form-01#long-form-01"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/long-form-01.webp" width="560" alt="런던 테크노 클럽 30초 무컷 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/d857c60c-ed4f-4b6b-99d1-0e0a9a979c42" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 
@@ -70,7 +70,7 @@ The overall image should feel raw, naturalistic and grounded, with visible film 
 
 도시를 가로지르는 비행 경로 하나만 적어 컷이 필요 없게 합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=long-form-02#long-form-02"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/long-form-02.webp" width="560" alt="하나로 이어지는 서사 판타지 롱테이크 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/e543804f-7ed7-444c-a52d-44ecfd0bf4e2" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 
@@ -188,7 +188,7 @@ Keep the protagonist, broom, flying direction, city geography, and lighting tran
 
 움직이지 않는다는 말을 반복해 연출만으로 이야기를 끌고 갑니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=long-form-03#long-form-03"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/long-form-03.webp" width="560" alt="한 번도 움직이지 않는 고정 카메라 30초 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/8043e294-68f9-4215-af11-4655dc0f0787" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 
@@ -203,7 +203,7 @@ A 30 second film from ONE completely locked, static camera position that never m
 
 호텔에서 거리까지 하루를 순서대로 따라가는 셀프 촬영 일지입니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=long-form-04#long-form-04"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/long-form-04.webp" width="560" alt="혼자 찍은 뉴욕의 하루 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/0ecc7342-89de-4602-bfe9-6e0f2ec21537" width="560" controls muted playsinline></video>
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -222,7 +222,7 @@ SCENE A day in New York shot entirely by the subject herself: waking in her hote
 
 컷 지점을 0.5초 단위로 적어 샷 길이를 완전히 통제합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=long-form-05#long-form-05"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/long-form-05.webp" width="560" alt="지정한 타임코드에서만 하드컷 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/ab0d1634-dca8-47f8-bacb-a7aa3532ffe9" width="560" controls muted playsinline></video>
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -278,7 +278,7 @@ The video ends on the held profile of the rider stopped at the cliff edge, facin
 
 컷 없이 1인칭을 유지하고 이동 경로가 이야기를 이끌게 합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=long-form-06#long-form-06"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/long-form-06.webp" width="560" alt="일본 해안 출근길, 끊김 없는 1인칭 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/82d6fe59-0fa3-40ee-acb7-66569b3f88e8" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 
@@ -307,7 +307,7 @@ Technical spec: continuous POV, first-person, no cuts or transitions, natural ha
 
 시간 구간·샷 이름·물리 지시를 비트마다 대본처럼 정리합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=long-form-07#long-form-07"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/long-form-07.webp" width="560" alt="타임스탬프 대본과 스토리보드 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/419bcd52-c1f1-408d-bb7b-971c33dca46f" width="560" controls muted playsinline></video>
 
 **프롬프트:**
 

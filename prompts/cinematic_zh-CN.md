@@ -51,7 +51,7 @@
 
 先还原一间真实的旧时代房间，再让一个不可能的事件打破它。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-01#cinematic-01"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-01.webp" width="560" alt="19 世纪室内的十秒真人幻象 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/a795e3ac-e808-458f-bd7e-44c15a2048ad" width="560" controls muted playsinline></video>
 
 **提示词:**
 
@@ -66,7 +66,7 @@ Create a ten second cinematic live action illusion in a sixteen by nine frame at
 
 整条提示靠一个镜头效果撑起：圆形暗角加边缘畸变。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-02#cinematic-02"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-02.webp" width="560" alt="通过鱼眼猫眼看到的门外 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/a0b48edb-fa7c-4609-96c7-4044f48254b5" width="560" controls muted playsinline></video>
 
 **提示词:**
 
@@ -81,7 +81,7 @@ A realistic doorway peephole POV video shot through a ultra wide fisheye lens wi
 
 只写一个剧情转折：影像变成实体，细节都花在这里。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-03#cinematic-03"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-03.webp" width="560" alt="废弃天文馆里，投影的月亮变成真的 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/5da73dfc-324e-4eb6-98f3-815269dffa89" width="560" controls muted playsinline></video>
 
 **提示词:**
 
@@ -96,7 +96,7 @@ An elderly night janitor cleans an abandoned Art Deco planetarium during a thund
 
 叠加胶片、颗粒和实景灯光词汇，造出年代质感。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-04#cinematic-04"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-04.webp" width="560" alt="1980 年代 35mm 霓虹与频闪 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/9a1bfe5d-13fb-47c6-8cd7-c1eca2f2a138" width="560" controls muted playsinline></video>
 
 **提示词:**
 
@@ -118,7 +118,7 @@ An elderly night janitor cleans an abandoned Art Deco planetarium during a thund
 
 先用一段 STYLE 写胶片时代的词，再放一个短场景。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-05#cinematic-05"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-05.webp" width="560" alt="黑白 35mm 咖啡馆文艺片 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/d26f6d43-23f9-494b-a75e-d4aa1c2f9cd8" width="560" controls muted playsinline></video>
 
 **提示词:**
 
@@ -234,7 +234,7 @@ The video ends on the held close-up of the woman's face, the image full and lit 
 
 用地面震动和大片水花来体现体量。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-06#cinematic-06"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-06.webp" width="560" alt="巨人涉湖，巨龙随后而至 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/1045ee1e-70be-4029-bd3f-5c8aa10d78e4" width="560" controls muted playsinline></video>
 
 **提示词:**
 
@@ -253,7 +253,7 @@ A fast-paced action scene with realistic cinematography.
 
 先写天色和水的颜色，人物行动前气氛已经就位。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-07#cinematic-07"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-07.webp" width="560" alt="被洪水淹没村庄里的生存惊悚 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/df0e5cc6-e8db-4d9d-9948-c7f02ce59fe0" width="560" controls muted playsinline></video>
 
 **提示词:**
 
@@ -300,7 +300,7 @@ Sound: helicopter roar, screaming metal, collapse splash, panicked yelling, wate
 
 一个人、一次起跳、一个瞬间，慢动作因此干净。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-08#cinematic-08"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-08.webp" width="560" alt="奥运羽毛球扣杀慢镜头 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/a06eed6e-938c-4842-86cb-af1150783b9e" width="560" controls muted playsinline></video>
 
 **提示词:**
 
@@ -315,7 +315,7 @@ A cinematic slow-motion shot of a professional Caucasian male badminton player c
 
 糖果色布景加同步舞蹈，动作和节拍绑定。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-09#cinematic-09"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-09.webp" width="560" alt="踩点的 Y2K 双人流行 MV – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/8b3fc1b7-62ec-421f-b1e0-9632fbc984c6" width="560" controls muted playsinline></video>
 
 > 📎 这条需要你自己上传参考图或参考视频。
 
@@ -366,7 +366,7 @@ Hard cut at 13.0s. 13.0–15.0s Set A, 47°: back-to-back frozen final pose, cam
 
 写明机身和镜头组，再规划一条连续运镜。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-10#cinematic-10"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-10.webp" width="560" alt="变形宽银幕一镜到底，镜头型号写到底 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/b3197de5-6b40-4063-8af1-acde62a7366e" width="560" controls muted playsinline></video>
 
 **提示词:**
 
@@ -391,7 +391,7 @@ Maintain one continuous uninterrupted shot, seamless transitions, consistent cha
 
 把短喜剧切成带台词的时间节拍。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-11#cinematic-11"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-11.webp" width="320" alt="美颜滤镜活过来的竖屏喜剧 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/cbc2b963-8875-47ac-8c2d-940b33985921" width="320" controls muted playsinline></video>
 
 > 📎 这条需要你自己上传参考图或参考视频。
 
@@ -449,7 +449,7 @@ Maintain one continuous uninterrupted shot, seamless transitions, consistent cha
 
 按 0.0–2.0 秒分块，前半紧张、后半疾驰。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-12#cinematic-12"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-12.webp" width="560" alt="铠甲与战马，像预告片一样剪 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/4d90e7aa-d673-47f9-99d8-86477b7fcde0" width="560" controls muted playsinline></video>
 
 **提示词:**
 
@@ -528,7 +528,7 @@ Maintain one continuous uninterrupted shot, seamless transitions, consistent cha
 
 真实光影词汇搭配故意违反的物理规律。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-13#cinematic-13"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-13.webp" width="560" alt="真实光影配不可能的物理 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/df665854-578d-4d3c-8613-aea6809f87b3" width="560" controls muted playsinline></video>
 
 **提示词:**
 
@@ -555,7 +555,7 @@ Hyper-detailed, breathtaking surreal world-building, perfect motion continuity, 
 
 用一行箭头串起每个阶段，镜头不停。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-14#cinematic-14"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-14.webp" width="560" alt="一次坠落，从轨道到叶上雨滴 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/4ab3c6b9-bbd8-4f66-b5fb-8b68d95be0e1" width="560" controls muted playsinline></video>
 
 **提示词:**
 
@@ -570,7 +570,7 @@ One continuous fall. Orbit → atmosphere → storm → mountains → forest →
 
 从缝隙推进，连接两个空间而不切镜。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-15#cinematic-15"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-15.webp" width="560" alt="穿过红幕布的一镜到底 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/ef5adb90-28f8-4a7f-8449-0b830f02e700" width="560" controls muted playsinline></video>
 
 **提示词:**
 
@@ -585,7 +585,7 @@ One-take handheld gimbal tracking shot. The camera slowly pushes in through a ga
 
 简短人物描述旁边直接写明立体声要求。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-16#cinematic-16"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-16.webp" width="560" alt="带同步立体声的女探险家 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/b20fd530-611e-4527-b069-b52c2564a4f6" width="560" controls muted playsinline></video>
 
 **提示词:**
 
@@ -616,7 +616,7 @@ Priorities: absolute character and wardrobe consistency, stable hummingbird desi
 
 要求镜头逻辑相连，变身前后人物一致。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-17#cinematic-17"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-17.webp" width="560" alt="跨镜头衔接的魔法变身 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/6045f78e-e9a3-4258-9d22-6d80f6db0014" width="560" controls muted playsinline></video>
 
 **提示词:**
 
@@ -647,7 +647,7 @@ Priorities: absolute character and wardrobe consistency, stable hummingbird desi
 
 点明纪录片风格和时间段，再让光线来出效果。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-18#cinematic-18"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-18.webp" width="560" alt="自然纪录片风的野生动物清晨 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/7b418fcc-d3b9-4beb-b322-8c6d922a60cb" width="560" controls muted playsinline></video>
 
 **提示词:**
 
@@ -681,7 +681,7 @@ NEGATIVE: No captions, text, logos, watermark, background music, cartoon eyes, e
 
 把格式和光线角度当作基调，再用一行写人物。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-19#cinematic-19"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-19.webp" width="560" alt="IMAX 变形镜头，低角度硬光打在湿地 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/74f5de20-acce-4414-b2da-02ff3822102c" width="560" controls muted playsinline></video>
 
 **提示词:**
 
@@ -709,7 +709,7 @@ AUDIO: Renteria only by radio, thin, tinny, filtered, click each side. Jan answe
 
 引用七八十年代太空片，要求对称而缓慢的构图。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-20#cinematic-20"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-20.webp" width="560" alt="复古太空歌剧，实物特效质感 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/00b64f6e-21d1-44d2-8183-05175b0dce0a" width="560" controls muted playsinline></video>
 
 **提示词:**
 
@@ -772,7 +772,7 @@ Dialogue: “So be weird. Be honest. Make the thing only you would make.” “W
 
 一个人、一个空间，再加一份排除文字和变形的否定清单。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-21#cinematic-21"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-21.webp" width="560" alt="午夜行李大厅里一位疲惫的清洁工 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/54a029ca-684d-43aa-8f83-9c3886586e27" width="560" controls muted playsinline></video>
 
 **提示词:**
 
@@ -815,7 +815,7 @@ Continuity constraints: Preserve one cleaner, one mop, one terminal layout and o
 
 先定全局影像风格，再写变换速度与方向的分场景。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-22#cinematic-22"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-22.webp" width="560" alt="方形画幅的地铁惊悚，频闪与暗影 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/f2838868-f395-41f2-8c91-af3b835df630" width="560" controls muted playsinline></video>
 
 > 📎 这条需要你自己上传参考图或参考视频。
 
@@ -852,7 +852,7 @@ Continuity constraints: Preserve one cleaner, one mop, one terminal layout and o
 
 整段用越南语，并分块标出人物和场景。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-23#cinematic-23"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-23.webp" width="560" alt="越南语写的越南农民 – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/9cb82d6b-5999-41d3-8892-5d415b83f364" width="560" controls muted playsinline></video>
 
 **提示词:**
 

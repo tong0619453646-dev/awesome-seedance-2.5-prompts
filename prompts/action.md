@@ -40,7 +40,7 @@ by [@lansenai](https://x.com/lansenai) · 30s · 16:9 · **[▶ Run on APIKO](ht
 
 Binds two uploaded characters to fixed roles, then lays out the fight in a strict structure.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-01#action-01"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-01.webp" width="560" alt="Thirty-second close combat in a flooded metro hall – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/b677d7cf-1794-4a2c-95d7-75843c8a8533" width="560" controls muted playsinline></video>
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -145,7 +145,7 @@ by [@johnAGI168](https://x.com/johnAGI168) · 30s · 16:9 · **[▶ Run on APIKO
 
 Mixes slow motion with quick cuts and names real materials like cloth and wood chips.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-02#action-02"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-02.webp" width="560" alt="Wuxia action comedy in a period inn – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/97d835e2-f27d-4c8a-b0d2-85527ccb333d" width="560" controls muted playsinline></video>
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -193,7 +193,7 @@ by [@tanabe_fragm](https://x.com/tanabe_fragm) · 20s · 16:9 · **[▶ Run on A
 
 Lists each reference image and its role before the duel, with a palette line.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-03#action-03"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-03.webp" width="560" alt="Duel at Hulao Pass, identities from reference images – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/23baad18-f2d4-436c-b277-06f2e99ecca9" width="560" controls muted playsinline></video>
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -216,7 +216,7 @@ by [@WolfRiccardo](https://x.com/WolfRiccardo) · 15s · 2:1 · **[▶ Run on AP
 
 Gives each four-second window one clear action, so the fight has a readable arc.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-04#action-04"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-04.webp" width="560" alt="Arena duel, written beat by timed beat – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/2d09beb7-69af-4466-984b-d154c78d3da5" width="560" controls muted playsinline></video>
 
 **Prompt:**
 
@@ -240,7 +240,7 @@ by [@NexlowX](https://x.com/NexlowX) · 15s · 16:9 · **[▶ Run on APIKO](http
 
 A one-line gag with a clear setup, wobble and splash.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-05#action-05"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-05.webp" width="560" alt="Japanese game-show wipeout – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/02455e94-042b-4a6e-8ccf-780ebd96ae0f" width="560" controls muted playsinline></video>
 
 **Prompt:**
 
@@ -277,7 +277,7 @@ by [@bmx_ai13](https://x.com/bmx_ai13) · 30s · 16:9 · **[▶ Run on APIKO](ht
 
 Opens with Scene and Mood, so lighting and weather are set before any action.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-06#action-06"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-06.webp" width="560" alt="Climbing a flooding botanical tower in a night storm – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/6bd8ca67-dd3c-4d4f-b8c3-4f27f3a55622" width="560" controls muted playsinline></video>
 
 **Prompt:**
 
@@ -292,7 +292,7 @@ by [@baqiceloudezhu](https://x.com/baqiceloudezhu) · 180s · 16:9 · **[▶ Run
 
 Bans magic and flying, so the fight stays grounded in weight and inertia.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-07#action-07"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-07.webp" width="560" alt="Three minutes of wuxia swordplay in a ruined temple – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/988d611b-8739-49bd-93ef-a6feab052e89" width="560" controls muted playsinline></video>
 
 **Prompt:**
 
@@ -339,7 +339,7 @@ by [@tanabe_fragm](https://x.com/tanabe_fragm) · 30s · 16:9 · **[▶ Run on A
 
 States "the camera never cuts" and lets the scene escalate instead.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-08#action-08"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-08.webp" width="560" alt="Thirty seconds of action in one unbroken take – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/48537acf-c26f-4ff7-9ae9-4612f08df4b4" width="560" controls muted playsinline></video>
 
 **Prompt:**
 
@@ -472,7 +472,7 @@ by [@Artedeingenio](https://x.com/Artedeingenio) · 30s · 16:9 · **[▶ Run on
 
 Names fluid aerial choreography and fast editing, a template you can swap subjects into.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-09#action-09"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-09.webp" width="560" alt="Aerial action spectacle, feature-film scale – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/2fc1428b-81d2-4a62-82f1-60fece72e471" width="560" controls muted playsinline></video>
 
 **Prompt:**
 
@@ -537,7 +537,7 @@ by [@df_reno](https://x.com/df_reno) · 29s · 21:9 · **[▶ Run on APIKO](http
 
 Gives every shot its own camera settings and splits light into three depth layers.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-10#action-10"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-10.webp" width="560" alt="WWI dogfight, camera specified shot by shot – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/cca208f7-3424-442d-a870-bf1184ebf001" width="560" controls muted playsinline></video>
 
 **Prompt:**
 
@@ -586,7 +586,7 @@ by [@renataro9](https://x.com/renataro9) · 60s · 16:9 · **[▶ Run on APIKO](
 
 Takes visual language from an image and adds "no magic, no random destruction".
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-11#action-11"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-11.webp" width="560" alt="Two martial artists clash, low-angle – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/55bb6f6f-a9f8-40e2-975a-6ffd33732830" width="560" controls muted playsinline></video>
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -639,7 +639,7 @@ by [@aimikoda](https://x.com/aimikoda) · 30s · 16:9 · **[▶ Run on APIKO](ht
 
 Fuses two move sets, dance turns and sword work, in one 3D-real look.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=action-12#action-12"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/action-12.webp" width="560" alt="Contemporary dance meets spectral blade combat – Seedance 2.5"></a>
+<video src="https://github.com/user-attachments/assets/dfc2aaae-dcff-48e8-8362-5e3b9f11b485" width="560" controls muted playsinline></video>
 
 **Prompt:**
 
