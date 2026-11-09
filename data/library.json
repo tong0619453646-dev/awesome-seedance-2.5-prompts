@@ -203,6 +203,10 @@
      {
       "label": "Wan 3.0 prompts",
       "href": "/wan-3-0-prompts"
+     },
+     {
+      "label": "Seedance 2.5 prompts on GitHub",
+      "href": "https://github.com/tong0619453646-dev/awesome-seedance-2.5-prompts"
      }
     ]
    }
@@ -382,6 +386,10 @@
      {
       "label": "Wan 3.0 提示词",
       "href": "/wan-3-0-prompts"
+     },
+     {
+      "label": "GitHub 上的 Seedance 2.5 提示词合集",
+      "href": "https://github.com/tong0619453646-dev/awesome-seedance-2.5-prompts/blob/main/README_zh-CN.md"
      }
     ]
    }
@@ -561,6 +569,10 @@
      {
       "label": "Wan 3.0 提示詞",
       "href": "/wan-3-0-prompts"
+     },
+     {
+      "label": "GitHub 上的 Seedance 2.5 提示詞合集",
+      "href": "https://github.com/tong0619453646-dev/awesome-seedance-2.5-prompts/blob/main/README_zh-TW.md"
      }
     ]
    }
@@ -740,6 +752,10 @@
      {
       "label": "Wan 3.0 프롬프트",
       "href": "/wan-3-0-prompts"
+     },
+     {
+      "label": "GitHub의 Seedance 2.5 프롬프트 모음",
+      "href": "https://github.com/tong0619453646-dev/awesome-seedance-2.5-prompts/blob/main/README_ko.md"
      }
     ]
    }

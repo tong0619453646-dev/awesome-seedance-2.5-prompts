@@ -28,7 +28,7 @@ const EMOJI = {
   'illustration-art': '🎨', 'scenes-illustration': '🏞️', 'poster-branding': '🪧', 'product-ads': '📣', 'ui-web': '🖥️', infographics: '📊',
   'ad-creative': '📣', character: '🧩', ecommerce: '🛍️', portrait: '📷', poster: '🪧', ui: '🖥️', comparison: '🆚',
   'motion-graphics': '✨', 'product-launch': '🚀', explainer: '🧑‍🏫', 'storyboard-to-video': '🗂️', 'music-video': '🎵', 'short-film': '🎞️',
-  '3d-blender': '🧊', 'video-editing': '✂️',
+  '3d-blender': '🧊', 'video-editing': '✂️', 'fantasy-scifi': '🐉', 'vlog-ugc': '🤳', 'reference-edit': '🔁',
 };
 
 const LOCALES = {
@@ -285,7 +285,8 @@ function build(locale, split) {
 
   push(`<a id="related"></a>`, `## 🔗 ${L.h.related}`, '');
   push(`- [${linkText(P.h1)} · apiko.app](${library('related')})`);
-  for (const item of P.links.items) push(`- [${linkText(item.label)}](${site(item.href, 'related')})`);
+  // The site's own link back to GitHub collections is left out: the sibling list below covers them.
+  for (const item of P.links.items) if (!item.href.startsWith('https://github.com/')) push(`- [${linkText(item.label)}](${site(item.href, 'related')})`);
   push(`- [${L.examples}](https://github.com/${OWNER}/apiko-ai-api-examples)`, '');
   push(`**${L.otherRepos}**`, '');
   for (const [name, label] of repo.siblings) push(`- [${label}](https://github.com/${OWNER}/${name}${locale === 'en' ? '' : `/blob/main/${LOCALES[locale].file}`})`);
