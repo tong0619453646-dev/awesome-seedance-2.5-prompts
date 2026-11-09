@@ -238,7 +238,7 @@ SFX: boot heel tap on each hip accent
 
 Camera: hold medium full-body
 LED: lock to full cool blue casting sharp cyan shadows across vinyl floor, mirror behind reflects frozen pose doubled
-Diegetic SFX: silence drops completely; only faint room resonance remains66:Tdd1,Use the provided image as the
+Diegetic SFX: silence drops completely; only faint room resonance remains
 ```
 
 [← 返回 README](../README_zh-CN.md)
