@@ -42,7 +42,7 @@ by [@rahulnanda86](https://x.com/rahulnanda86) · 30s · 16:9 · **[▶ Run on A
 
 Tells the model to use every uploaded image and pace the cuts to the track.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-01#reference-01"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-01.webp" width="560" alt="Fourteen images and one audio track into a music video – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/e00778c7-5f40-40fe-abc5-52a50cb6fbc8
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -65,7 +65,7 @@ by [@roco_kn_roco](https://x.com/roco_kn_roco) · 30s · 16:9 · **[▶ Run on A
 
 Spells out which traits to copy from the reference, and says to ignore its background.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-02#reference-02"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-02.webp" width="560" alt="R2V mode: take only the character, nothing else – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/0a8a92de-67e0-4b93-98da-8ec656c598f0
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -82,7 +82,7 @@ by [@EHuanglu](https://x.com/EHuanglu) · 30s · 3:4 · **[▶ Run on APIKO](htt
 
 States that the new image replaces all older ones, to stop identity drift.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-03#reference-03"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-03.webp" width="320" alt="One image overrides every earlier performer reference – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/157d397e-189d-4ce5-a607-b1893020c0e2
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -131,7 +131,7 @@ by [@adilinthewild](https://x.com/adilinthewild) · 30s · 16:9 · **[▶ Run on
 
 Calls the image the first frame and re-describes the outfit to hold it.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-04#reference-04"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-04.webp" width="560" alt="Identity locked to the first frame – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/cfee9b0d-2821-4247-a3c8-3dfd7d52a77e
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -149,7 +149,7 @@ by [@VictorInFocus](https://x.com/VictorInFocus) · 78s · 16:9 · **[▶ Run on
 
 Gives each character its own sheet tag, and asks to keep both face and clothes.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-05#reference-05"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-05.webp" width="560" alt="Two character sheets, identity and wardrobe locked – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/b3ca5dae-ba0a-41b5-9a7c-b6f30ff6b0db
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -166,7 +166,7 @@ by [@BaBELL81](https://x.com/BaBELL81) · 24s · 16:9 · **[▶ Run on APIKO](ht
 
 Assigns three images to three jobs, mixing a cartoon with a live-action figure.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-06#reference-06"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-06.webp" width="560" alt="Cartoon bulldog versus live-action boxer – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/b524b5e7-cc01-4ec9-b68b-b4c1133190f8
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -235,7 +235,7 @@ by [@opener_ai](https://x.com/opener_ai) · 30s · 21:9 · **[▶ Run on APIKO](
 
 Starts with an IDENTITY line that lists exactly what the image may supply.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-07#reference-07"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-07.webp" width="560" alt="The reference supplies identity only, nothing else – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/27ad4a8f-6ff7-4fdc-bd67-c5b32f36e004
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -254,7 +254,7 @@ by [@AiMeowing](https://x.com/AiMeowing) · 15s · 16:9 · **[▶ Run on APIKO](
 
 Locks style, brushwork and palette first, then lists the few moving parts.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-08#reference-08"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-08.webp" width="560" alt="Lock the artwork, animate only what moves – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/2cf2f84d-9316-4f59-b762-f443e5d4d7cc
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -295,7 +295,7 @@ by [@TanLuAI](https://x.com/TanLuAI) · 24s · 16:9 · **[▶ Run on APIKO](http
 
 Numbers each character image, then assigns weapons and roles one by one.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-09#reference-09"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-09.webp" width="560" alt="Cyber-wuxia trailer built from eighteen references – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/6dd7d6b4-75ff-4632-bdd4-44de9a7bbc8a
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -337,7 +337,7 @@ by [@Vtuber7144](https://x.com/Vtuber7144) · 30s · 16:9 · **[▶ Run on APIKO
 
 Gives each image a single job: face, character sheet, or live-action mood.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-10#reference-10"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-10.webp" width="560" alt="Gothic-lolita twins, three references with distinct jobs – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/23da1631-4654-4cbb-8dca-49e838d6df62
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -414,7 +414,7 @@ by [@AiMeowing](https://x.com/AiMeowing) · 30s · 16:9 · **[▶ Run on APIKO](
 
 Freezes the art style and materials, then writes only the motion over time.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-11#reference-11"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-11.webp" width="560" alt="Illustration locked, thirty seconds of motion – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/1f7a8908-0c1a-43dc-b752-f001aac1f3e3
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -463,7 +463,7 @@ by [@kantakanta1233](https://x.com/kantakanta1233) · 30s · 4:3 · **[▶ Run o
 
 Describes the character by name, hair and dress, then ties her to the image tag.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-12#reference-12"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-12.webp" width="560" alt="Celestia the dark mage, identity from image1 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/dd84f148-bca6-4716-8129-4a4aa4a443cb
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -599,7 +599,7 @@ by [@CharaspowerAI](https://x.com/CharaspowerAI) · 20s · 4:5 · **[▶ Run on 
 
 Lists each visible item from one image: hair, armour, jacket, boots and sword.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-13#reference-13"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-13.webp" width="320" alt="One image holds the warrior, armour and sword – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/2daf26b1-3343-4d79-b2f7-513aefcc8359
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -637,7 +637,7 @@ by [@sailorv321](https://x.com/sailorv321) · 15s · 16:9 · **[▶ Run on APIKO
 
 Takes style cues from the image and states the result must resemble no real person.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-14#reference-14"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-14.webp" width="560" alt="One character reference, rebuilt as a fictional person – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/c237a42a-e898-4e81-8ea4-f1b7a03f3e2e
 
 > 📎 Upload your own reference image or clip for this one.
 

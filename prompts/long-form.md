@@ -35,7 +35,7 @@ by [@JMSvid](https://x.com/JMSvid) · 30s · 4:3 · **[▶ Run on APIKO](https:/
 
 Splits one unbroken shot into time ranges so the camera path is planned second by second.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=long-form-01#long-form-01"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/long-form-01.webp" width="560" alt="Thirty seconds inside a London techno club, no cuts – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/d857c60c-ed4f-4b6b-99d1-0e0a9a979c42
 
 **Prompt:**
 
@@ -70,7 +70,7 @@ by [@VeraVCreates](https://x.com/VeraVCreates) · 30s · 16:9 · **[▶ Run on A
 
 Describes one flight path through the city so the camera never has to cut.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=long-form-02#long-form-02"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/long-form-02.webp" width="560" alt="Epic fantasy long take in one continuous move – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/e543804f-7ed7-444c-a52d-44ecfd0bf4e2
 
 **Prompt:**
 
@@ -188,7 +188,7 @@ by [@sebatheepan](https://x.com/sebatheepan) · 30s · 16:9 · **[▶ Run on API
 
 Repeats "locked, never pans, never zooms" so staging has to do all the work.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=long-form-03#long-form-03"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/long-form-03.webp" width="560" alt="Thirty seconds from one camera that never moves – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/8043e294-68f9-4215-af11-4655dc0f0787
 
 **Prompt:**
 
@@ -203,7 +203,7 @@ by [@noman23761](https://x.com/noman23761) · 29s · 16:9 · **[▶ Run on APIKO
 
 Walks through a whole day in order, from hotel to street, as one self-filmed log.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=long-form-04#long-form-04"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/long-form-04.webp" width="560" alt="A day in New York, filmed entirely by herself – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/0ecc7342-89de-4602-bfe9-6e0f2ec21537
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -222,7 +222,7 @@ by [@digitalwindai](https://x.com/digitalwindai) · 59s · 16:9 · **[▶ Run on
 
 Lists the cut points to the half second, so shot length is fully controlled.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=long-form-05#long-form-05"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/long-form-05.webp" width="560" alt="Hard cuts at exact timecodes, and nowhere else – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/ab0d1634-dca8-47f8-bacb-a7aa3532ffe9
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -278,7 +278,7 @@ by [@jaynwabueze](https://x.com/jaynwabueze) · 30s · 16:9 · **[▶ Run on API
 
 Stays in first person with no cuts and lets the route supply the story.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=long-form-06#long-form-06"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/long-form-06.webp" width="560" alt="Morning commute in coastal Japan, one unbroken POV – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/82d6fe59-0fa3-40ee-acb7-66569b3f88e8
 
 **Prompt:**
 
@@ -307,7 +307,7 @@ by [@mumaren_2](https://x.com/mumaren_2) · 30s · 16:9 · **[▶ Run on APIKO](
 
 Uses a screenplay-like layout, with time range, shot name and physics notes per beat.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=long-form-07#long-form-07"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/long-form-07.webp" width="560" alt="Timestamped script and storyboard, beat by beat – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/419bcd52-c1f1-408d-bb7b-971c33dca46f
 
 **Prompt:**
 

@@ -43,7 +43,7 @@
 
 先规定自拍视角开场，再用机位说明把 DV 质感贯穿到底。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-01#documentary-01"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-01.webp" width="560" alt="手持 DV 清晨遛狗 vlog – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/3cd0e2a4-0eb2-4277-94f6-ea43e1d484dd
 
 **提示词:**
 
@@ -98,7 +98,7 @@ She gives a small wave and ends the recording.
 
 点明手机拍摄的倾斜和抖动，再给七个镜头编号。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-02#documentary-02"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-02.webp" width="560" alt="七镜头手持家庭录像 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/29f649cb-de58-44f7-b511-29515a80fe2a
 
 > 📎 这条需要你自己上传参考图或参考视频。
 
@@ -121,7 +121,7 @@ Dialogue is natural spoken Korean (except "Good enough"), reacting casually to e
 
 摄像机瑕疵（比如对焦来回）加上贴近的环境声提示。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-03#documentary-03"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-03.webp" width="560" alt="Mini DV 放风筝 ASMR vlog – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/42153e38-f0ad-4d73-ba9d-4f54e4444bb2
 
 **提示词:**
 
@@ -154,7 +154,7 @@ REALISM NOTES: Authentic body language, natural blinking, genuine cheerful smile
 
 先锁定参考图的脸，再按时间段推进一整天。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-04#documentary-04"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-04.webp" width="560" alt="朋友跟拍的手持旅行 vlog – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/6de2ccfa-ed57-4db2-80c8-2a13e6179680
 
 > 📎 这条需要你自己上传参考图或参考视频。
 
@@ -171,7 +171,7 @@ A realistic handheld travel vlog filmed by a friend following the main character
 
 固定由主角自己持机的第一人称，再逐个列出地点。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-05#documentary-05"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-05.webp" width="560" alt="DV 16mm 第一人称探店日记 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/5f78ef65-ea7d-4fdf-a965-15f3ec810593
 
 **提示词:**
 
@@ -213,7 +213,7 @@ Trainee dorm room (early morning) → vocal lesson room (morning) → dance prac
 
 沿用摄像机质感段落，换成安静的晨间小动作。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-06#documentary-06"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-06.webp" width="560" alt="Mini DV 冲咖啡 ASMR vlog – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/a025f470-7330-4bd7-9ced-0b301c1ef379
 
 **提示词:**
 
@@ -247,7 +247,7 @@ REALISM NOTES: Authentic body language, natural blinking, genuine focused smiles
 
 前景是平静的自拍口吻，背景却一片混战，靠反差出效果。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-07#documentary-07"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-07.webp" width="560" alt="身后是特洛伊战争的自拍 vlog – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/598ce9ea-4c02-4647-ad17-afa2aad4afb7
 
 **提示词:**
 
@@ -266,7 +266,7 @@ Subject Lock: Long dark wavy hair, olive skin, sharp contoured features, gold ho
 
 用主体段落写衣着和发型，保持不精致的质感。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-08#documentary-08"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-08.webp" width="560" alt="刻意不修饰的普通一天 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/13bb5083-70e1-4189-a4af-6752129dccbd
 
 **提示词:**
 
@@ -298,7 +298,7 @@ Goal: A quiet, satisfying weekend chore moment grounded, warm, believable.
 
 强调每一帧都要像真实素材，并用竖屏构图。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-09#documentary-09"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-09.webp" width="320" alt="看不出是生成的生活切片 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/e4b889a5-ce31-4657-b076-3b5bc0195806
 
 **提示词:**
 
@@ -327,7 +327,7 @@ Creative Goal: Deliver a calm, intimate, emotionally grounded slice-of-life film
 
 详细写一次人物，再在每个场景强调同一个人。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-10#documentary-10"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-10.webp" width="560" alt="同一张脸贯穿的热带旅行 vlog – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/50845d02-8508-48d9-a32c-b6e7fcf5974d
 
 **提示词:**
 
@@ -342,7 +342,7 @@ Create a cinematic 30-second tropical travel vlog featuring the same 20-year-old
 
 固定表演者的脸和发型，再用一分钟跟拍一天。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-11#documentary-11"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-11.webp" width="560" alt="偶像私下一天的一分钟 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/442b3ad4-a50d-4554-9f59-400f3fbeecf0
 
 **提示词:**
 
@@ -357,7 +357,7 @@ Create a one-minute Japanese-style idol personal vlog following the same young p
 
 定年代、胶片和褪色色调，做出旧影像感。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-12#documentary-12"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-12.webp" width="320" alt="16mm 柯达拍的 1970 年代末地中海 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/c014159b-0959-4c8f-ab65-fdd7b73926d4
 
 **提示词:**
 
@@ -388,7 +388,7 @@ Ultra-photorealistic vintage documentary, authentic analog exposure, realistic h
 
 写出手机拍摄的自带瑕疵，画面不显得像制作出来的。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-13#documentary-13"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-13.webp" width="560" alt="看起来像手机实录的自拍 vlog – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/935b43cc-212e-417a-b244-8c9594f68c19
 
 **提示词:**
 
@@ -403,7 +403,7 @@ A photorealistic smartphone selfie vlog that looks exactly like a real mobile ph
 
 先写时间、地点和人群，再让镜头像参与者一样移动。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-14#documentary-14"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-14.webp" width="320" alt="凌晨三点法国酒吧门外的手持视角 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/b0cc27a5-d030-453f-9cc6-38f8408efce3
 
 > 📎 这条需要你自己上传参考图或参考视频。
 
@@ -496,7 +496,7 @@ The entire performance must feel spontaneous, messy, and completely believable. 
 
 把镜头设定为朋友举着手机，在她身后和身边走。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-15#documentary-15"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-15.webp" width="320" alt="朋友拍的公寓参观 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/f89bd172-14d5-41d3-906b-7027ccdbfecc
 
 > 📎 这条需要你自己上传参考图或参考视频。
 

@@ -32,7 +32,7 @@
 
 공간·시술·분위기를 한 단락으로 적은 광고 대본식 프롬프트입니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=product-01#product-01"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/product-01.webp" width="560" alt="척추 교정 클리닉 SNS 홍보 영상 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/9d90deb2-624a-49b9-b9b5-fe8e49dcf5cd
 
 **프롬프트:**
 
@@ -63,7 +63,7 @@ Audio should feel captured on location with soft room ambience, distant clinic m
 
 의상 전환을 이어지는 비트로 나눠 30초 안에 담습니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=product-02#product-02"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/product-02.webp" width="560" alt="실사 패션 변신 영상 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/d5402e15-2b85-4efb-8c8f-c3a5892be892
 
 **프롬프트:**
 
@@ -90,7 +90,7 @@ Music should be an upbeat polished fashion pop instrumental at about 112 beats p
 
 이미지의 얼굴과 구도를 유지하고 의상마다 박자를 맞춥니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=product-03#product-03"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/product-03.webp" width="320" alt="8초 비트 맞춤 의상 체인지 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/3963dc69-6548-432f-a69e-4591eb1405c9
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -154,7 +154,7 @@ Music should be an upbeat polished fashion pop instrumental at about 112 beats p
 
 효과음을 타임스탬프로 표시해 메이크업 샷이 소리 신호와 맞게 합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=product-04#product-04"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/product-04.webp" width="560" alt="실버 앞머리와 글리터 뷰티 필름 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/ae7f8c38-4c79-419b-817e-3091777eb082
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 

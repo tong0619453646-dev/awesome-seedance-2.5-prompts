@@ -43,7 +43,7 @@ by [@maxxmalist](https://x.com/maxxmalist) · 15s · 16:9 · **[▶ Run on APIKO
 
 Starts with a fixed selfie-mode opening, then keeps the DV look through camera notes.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-01#documentary-01"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-01.webp" width="560" alt="Handheld DV morning dog-walk vlog – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/3cd0e2a4-0eb2-4277-94f6-ea43e1d484dd
 
 **Prompt:**
 
@@ -98,7 +98,7 @@ by [@doctorwasif](https://x.com/doctorwasif) · 15s · 16:9 · **[▶ Run on API
 
 Calls for phone-footage flaws like tilt and shake, then numbers the seven shots.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-02#documentary-02"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-02.webp" width="560" alt="Seven-shot handheld home video – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/29f649cb-de58-44f7-b511-29515a80fe2a
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -121,7 +121,7 @@ by [@Strength04_X](https://x.com/Strength04_X) · 31s · 16:9 · **[▶ Run on A
 
 Pairs camcorder flaws such as focus hunting with close ambient sound cues.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-03#documentary-03"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-03.webp" width="560" alt="Mini DV kite-flying ASMR vlog – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/42153e38-f0ad-4d73-ba9d-4f54e4444bb2
 
 **Prompt:**
 
@@ -154,7 +154,7 @@ by [@BubbleBrain](https://x.com/BubbleBrain) · 30s · 16:9 · **[▶ Run on API
 
 Locks the reference face once, then moves through the day in timed chunks.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-04#documentary-04"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-04.webp" width="560" alt="Handheld travel vlog filmed by a friend – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/6de2ccfa-ed57-4db2-80c8-2a13e6179680
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -171,7 +171,7 @@ by [@doctorwasif](https://x.com/doctorwasif) · 15s · 16:9 · **[▶ Run on API
 
 Fixes a first-person camera that the subject holds, then lists each location.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-05#documentary-05"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-05.webp" width="560" alt="DV 16mm first-person location diary – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/5f78ef65-ea7d-4fdf-a965-15f3ec810593
 
 **Prompt:**
 
@@ -213,7 +213,7 @@ by [@noman23761](https://x.com/noman23761) · 30s · 16:9 · **[▶ Run on APIKO
 
 Reuses a camcorder-look block and swaps in a small, quiet morning task.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-06#documentary-06"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-06.webp" width="560" alt="Mini DV coffee-prep ASMR vlog – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/a025f470-7330-4bd7-9ced-0b301c1ef379
 
 **Prompt:**
 
@@ -247,7 +247,7 @@ by [@bmx_ai13](https://x.com/bmx_ai13) · 30s · 16:9 · **[▶ Run on APIKO](ht
 
 Plays a calm selfie voice against chaos in the background for contrast.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-07#documentary-07"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-07.webp" width="560" alt="Selfie vlog with the Trojan War going on behind her – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/598ce9ea-4c02-4647-ad17-afa2aad4afb7
 
 **Prompt:**
 
@@ -266,7 +266,7 @@ by [@Strength04_X](https://x.com/Strength04_X) · 30s · 16:9 · **[▶ Run on A
 
 A Main Subject block describes clothes and hair so the look stays unglamorous.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-08#documentary-08"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-08.webp" width="560" alt="An ordinary day, deliberately unpolished – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/13bb5083-70e1-4189-a4af-6752129dccbd
 
 **Prompt:**
 
@@ -298,7 +298,7 @@ by [@frametheory058](https://x.com/frametheory058) · 28s · 9:16 · **[▶ Run 
 
 Insists every frame must pass as real, with vertical framing.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-09#documentary-09"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-09.webp" width="320" alt="Slice of life that looks like real footage – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/e4b889a5-ce31-4657-b076-3b5bc0195806
 
 **Prompt:**
 
@@ -327,7 +327,7 @@ by [@Just_sharon7](https://x.com/Just_sharon7) · 30s · 16:9 · **[▶ Run on A
 
 Describes the same woman once and repeats "same person" through every scene.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-10#documentary-10"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-10.webp" width="560" alt="Tropical travel vlog, one face throughout – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/50845d02-8508-48d9-a32c-b6e7fcf5974d
 
 **Prompt:**
 
@@ -342,7 +342,7 @@ by [@BubbleBrain](https://x.com/BubbleBrain) · 60s · 16:9 · **[▶ Run on API
 
 Fixes the performer's face and hair, then follows a day over one minute.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-11#documentary-11"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-11.webp" width="560" alt="A minute in an idol's private day – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/442b3ad4-a50d-4554-9f59-400f3fbeecf0
 
 **Prompt:**
 
@@ -357,7 +357,7 @@ by [@hey_am_cherry](https://x.com/hey_am_cherry) · 15s · 9:16 · **[▶ Run on
 
 Pins an era, a film stock and faded colours to get a found-footage feel.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-12#documentary-12"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-12.webp" width="320" alt="Late-1970s Mediterranean on 16mm Kodak – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/c014159b-0959-4c8f-ab65-fdd7b73926d4
 
 **Prompt:**
 
@@ -388,7 +388,7 @@ by [@saniaspeaks_](https://x.com/saniaspeaks_) · 15s · 16:9 · **[▶ Run on A
 
 Describes the phone's own flaws so the footage does not look produced.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-13#documentary-13"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-13.webp" width="560" alt="A selfie vlog that looks like a real phone recording – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/935b43cc-212e-417a-b244-8c9594f68c19
 
 **Prompt:**
 
@@ -403,7 +403,7 @@ by [@patrickassale](https://x.com/patrickassale) · 30s · 9:16 · **[▶ Run on
 
 Sets time, place and crowd, then keeps the camera as a participant.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-14#documentary-14"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-14.webp" width="320" alt="Handheld POV outside a French bar at 3am – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/b0cc27a5-d030-453f-9cc6-38f8408efce3
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -496,7 +496,7 @@ by [@jaynwabueze](https://x.com/jaynwabueze) · 29s · 9:16 · **[▶ Run on API
 
 Fixes the camera as a friend with a phone, walking behind and beside her.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-15#documentary-15"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-15.webp" width="320" alt="A friend films the apartment tour – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/f89bd172-14d5-41d3-906b-7027ccdbfecc
 
 > 📎 Upload your own reference image or clip for this one.
 

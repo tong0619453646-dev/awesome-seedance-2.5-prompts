@@ -43,7 +43,7 @@
 
 셀카 시점 오프닝을 먼저 못박고 카메라 설명으로 DV 질감을 끝까지 유지합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-01#documentary-01"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-01.webp" width="560" alt="핸드헬드 DV 새벽 강아지 산책 브이로그 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/3cd0e2a4-0eb2-4277-94f6-ea43e1d484dd
 
 **프롬프트:**
 
@@ -98,7 +98,7 @@ She gives a small wave and ends the recording.
 
 기울기·흔들림 같은 폰 촬영 특징을 적고 7개 샷에 번호를 매깁니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-02#documentary-02"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-02.webp" width="560" alt="7샷 핸드헬드 홈비디오 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/29f649cb-de58-44f7-b511-29515a80fe2a
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -121,7 +121,7 @@ Dialogue is natural spoken Korean (except "Good enough"), reacting casually to e
 
 초점 흔들림 같은 캠코더 결점과 가까운 환경음 지시를 함께 씁니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-03#documentary-03"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-03.webp" width="560" alt="미니 DV 연날리기 ASMR 브이로그 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/42153e38-f0ad-4d73-ba9d-4f54e4444bb2
 
 **프롬프트:**
 
@@ -154,7 +154,7 @@ REALISM NOTES: Authentic body language, natural blinking, genuine cheerful smile
 
 참조 이미지의 얼굴을 한 번 고정하고 하루를 시간대별로 진행합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-04#documentary-04"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-04.webp" width="560" alt="친구가 따라 찍은 핸드헬드 여행 브이로그 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/6de2ccfa-ed57-4db2-80c8-2a13e6179680
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -171,7 +171,7 @@ A realistic handheld travel vlog filmed by a friend following the main character
 
 주인공이 직접 든 1인칭 카메라를 정하고 장소를 차례로 나열합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-05#documentary-05"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-05.webp" width="560" alt="DV 16mm 1인칭 장소 일기 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/5f78ef65-ea7d-4fdf-a965-15f3ec810593
 
 **프롬프트:**
 
@@ -213,7 +213,7 @@ Trainee dorm room (early morning) → vocal lesson room (morning) → dance prac
 
 캠코더 질감 문단을 재사용하고 조용한 아침 동작으로 바꿉니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-06#documentary-06"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-06.webp" width="560" alt="미니 DV 커피 내리기 ASMR 브이로그 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/a025f470-7330-4bd7-9ced-0b301c1ef379
 
 **프롬프트:**
 
@@ -247,7 +247,7 @@ REALISM NOTES: Authentic body language, natural blinking, genuine focused smiles
 
 차분한 셀카 말투와 혼란스러운 배경의 대비로 승부합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-07#documentary-07"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-07.webp" width="560" alt="뒤에서 트로이 전쟁이 벌어지는 셀카 브이로그 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/598ce9ea-4c02-4647-ad17-afa2aad4afb7
 
 **프롬프트:**
 
@@ -266,7 +266,7 @@ Subject Lock: Long dark wavy hair, olive skin, sharp contoured features, gold ho
 
 주인공 문단에 옷과 머리를 적어 꾸미지 않은 느낌을 유지합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-08#documentary-08"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-08.webp" width="560" alt="일부러 다듬지 않은 평범한 하루 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/13bb5083-70e1-4189-a4af-6752129dccbd
 
 **프롬프트:**
 
@@ -298,7 +298,7 @@ Goal: A quiet, satisfying weekend chore moment grounded, warm, believable.
 
 모든 프레임이 실제처럼 보여야 한다고 강조하고 세로 구도를 씁니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-09#documentary-09"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-09.webp" width="320" alt="실제 영상과 구분되지 않는 일상 단면 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/e4b889a5-ce31-4657-b076-3b5bc0195806
 
 **프롬프트:**
 
@@ -327,7 +327,7 @@ Creative Goal: Deliver a calm, intimate, emotionally grounded slice-of-life film
 
 인물을 한 번 자세히 쓰고 장면마다 같은 사람임을 강조합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-10#documentary-10"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-10.webp" width="560" alt="처음부터 끝까지 같은 얼굴의 열대 여행 브이로그 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/50845d02-8508-48d9-a32c-b6e7fcf5974d
 
 **프롬프트:**
 
@@ -342,7 +342,7 @@ Create a cinematic 30-second tropical travel vlog featuring the same 20-year-old
 
 출연자의 얼굴과 머리를 고정하고 1분 동안 하루를 따라갑니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-11#documentary-11"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-11.webp" width="560" alt="아이돌의 사적인 하루 1분 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/442b3ad4-a50d-4554-9f59-400f3fbeecf0
 
 **프롬프트:**
 
@@ -357,7 +357,7 @@ Create a one-minute Japanese-style idol personal vlog following the same young p
 
 연도·필름·바랜 색감을 지정해 발굴 영상 같은 느낌을 냅니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-12#documentary-12"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-12.webp" width="320" alt="16mm 코닥으로 찍은 70년대 말 지중해 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/c014159b-0959-4c8f-ab65-fdd7b73926d4
 
 **프롬프트:**
 
@@ -388,7 +388,7 @@ Ultra-photorealistic vintage documentary, authentic analog exposure, realistic h
 
 폰 촬영 특유의 결점을 적어 연출 영상처럼 보이지 않게 합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-13#documentary-13"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-13.webp" width="560" alt="실제 폰 녹화 같은 셀카 브이로그 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/935b43cc-212e-417a-b244-8c9594f68c19
 
 **프롬프트:**
 
@@ -403,7 +403,7 @@ A photorealistic smartphone selfie vlog that looks exactly like a real mobile ph
 
 시간·장소·군중을 먼저 쓰고 카메라를 현장 참여자처럼 둡니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-14#documentary-14"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-14.webp" width="320" alt="새벽 3시 프랑스 바 앞 핸드헬드 시점 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/b0cc27a5-d030-453f-9cc6-38f8408efce3
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -496,7 +496,7 @@ The entire performance must feel spontaneous, messy, and completely believable. 
 
 카메라를 폰을 든 친구로 두고 뒤와 옆에서 따라가게 합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-15#documentary-15"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-15.webp" width="320" alt="친구가 찍어 주는 집 구경 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/f89bd172-14d5-41d3-906b-7027ccdbfecc
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 

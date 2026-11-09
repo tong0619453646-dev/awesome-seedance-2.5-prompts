@@ -21,7 +21,7 @@
 
 **Seedance 2.5 提示詞：88 條可複製的影片提示詞，附成品範例，涵蓋一鏡到底、運鏡、參考圖等寫法，可直接在 APIKO 執行。**
 
-複製一條 Seedance 2.5 提示詞，看它產生的影片，再帶著文字一鍵送到模型頁執行。
+複製一條 Seedance 2.5 提示詞，看它產生的影片，再帶著文字一鍵送到模型頁執行。 所有成品影片都能在 GitHub 頁面上直接播放。
 
 線上搜尋與篩選： [apiko.app/seedance-2-5-prompts](https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-prompts&utm_content=intro).
 
@@ -104,7 +104,7 @@ done
 
 把一個不間斷鏡頭切成數個時間段，每幾秒規劃一次鏡頭走向。
 
-<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=long-form-01#long-form-01"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/long-form-01.webp" width="560" alt="倫敦地下電音俱樂部 30 秒不切鏡 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/d857c60c-ed4f-4b6b-99d1-0e0a9a979c42
 
 **提示詞:**
 
@@ -139,7 +139,7 @@ The overall image should feel raw, naturalistic and grounded, with visible film 
 
 用一行箭頭串起每個階段，鏡頭不停。
 
-<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-14#cinematic-14"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-14.webp" width="560" alt="一次墜落，從軌道到葉上雨滴 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/4ab3c6b9-bbd8-4f66-b5fb-8b68d95be0e1
 
 **提示詞:**
 
@@ -154,7 +154,7 @@ One continuous fall. Orbit → atmosphere → storm → mountains → forest →
 
 只寫一個劇情轉折：影像變成實體，細節都花在這裡。
 
-<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-03#cinematic-03"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-03.webp" width="560" alt="廢棄天文館裡，投影的月亮成了真的 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/5da73dfc-324e-4eb6-98f3-815269dffa89
 
 **提示詞:**
 
@@ -169,7 +169,7 @@ An elderly night janitor cleans an abandoned Art Deco planetarium during a thund
 
 寫明機身與鏡頭組，再規劃一條連續運鏡。
 
-<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-10#cinematic-10"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-10.webp" width="560" alt="變形寬銀幕一鏡到底，鏡頭型號寫到底 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/b3197de5-6b40-4063-8af1-acde62a7366e
 
 **提示詞:**
 
@@ -194,7 +194,7 @@ Maintain one continuous uninterrupted shot, seamless transitions, consistent cha
 
 先寫明焦距與光圈，再替每次切鏡指定自己的鏡頭。
 
-<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=animation-02#animation-02"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/animation-02.webp" width="560" alt="每個鏡頭換一支鏡頭的動畫電影質感 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/657fdadc-d06f-4de6-9b9d-c6b8579039d5
 
 **提示詞:**
 
@@ -436,7 +436,7 @@ capcutcpp & capcutseedance25
 
 先規定自拍視角開場，再用機位說明把 DV 質感貫穿到底。
 
-<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-01#documentary-01"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-01.webp" width="560" alt="手持 DV 清晨遛狗 vlog – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/3cd0e2a4-0eb2-4277-94f6-ea43e1d484dd
 
 **提示詞:**
 

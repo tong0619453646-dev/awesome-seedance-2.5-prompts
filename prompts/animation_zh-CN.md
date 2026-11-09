@@ -36,7 +36,7 @@
 
 先立风格规则并禁止生硬切镜，让每次转场都变形衔接。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=animation-01#animation-01"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/animation-01.webp" width="560" alt="手绘动画，转场全程流动不硬切 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/421e4c80-194d-4bf4-b766-3e49ba0e3b27
 
 > 📎 这条需要你自己上传参考图或参考视频。
 
@@ -147,7 +147,7 @@ The glowing line disintegrates into hand-drawn dust particles that drift rhythmi
 
 先写明焦距和光圈，再给每个切镜指定自己的镜头。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=animation-02#animation-02"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/animation-02.webp" width="560" alt="每个镜头换一支镜头的动画电影质感 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/657fdadc-d06f-4de6-9b9d-c6b8579039d5
 
 **提示词:**
 
@@ -389,7 +389,7 @@ capcutcpp & capcutseedance25
 
 排除配乐、对白和文字，再写线条颜色和配色。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=animation-03#animation-03"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/animation-03.webp" width="560" alt="新复古扁平 2D 动画，只有环境声 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/ab805c13-0354-49bb-89ab-9d49189127ca
 
 **提示词:**
 
@@ -558,7 +558,7 @@ capcutseedance25　capcutcpp　@capcutapp
 
 直接写出卡通比例：大头、大眼、夸张姿态。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=animation-04#animation-04"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/animation-04.webp" width="560" alt="大头设定的家庭动画风 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/42e45c9d-77cb-4121-978e-ef72e4190f5e
 
 **提示词:**
 
@@ -634,7 +634,7 @@ logos.
 
 用键值式结构，写镜头路径而不是切镜列表。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=animation-05#animation-05"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/animation-05.webp" width="560" alt="一镜飞越式的动画片头 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/b8dd65c5-833d-4167-91e0-ef7a3a40ac64
 
 **提示词:**
 
@@ -649,7 +649,7 @@ type: anime_opening_continuous_camera_flythrough style: visual: dark fantasy ani
 
 每个镜头标明秒数，从大特写开始。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=animation-06#animation-06"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/animation-06.webp" width="560" alt="龙眼睁开，逐镜头计时 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/0ad89423-c85e-44f4-9599-1098fa03f520
 
 **提示词:**
 
@@ -676,7 +676,7 @@ Shot 12 (2.0s): A final tense close-up as @Boy presses his back against a frozen
 
 同样的卡通比例写法，换了另一个场景。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=animation-07#animation-07"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/animation-07.webp" width="560" alt="大头设定的家庭动画风（另一场景） – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/64d0b360-52cd-4354-8971-8d1d132bd388
 
 **提示词:**
 
@@ -763,7 +763,7 @@ geometry.
 
 把流畅的作画和快剪作为动作戏的目标。
 
-<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=animation-08#animation-08"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/animation-08.webp" width="560" alt="作画级动画动作戏 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/a4b7f7d7-4234-4872-8464-ef44aacae450
 
 **提示词:**
 

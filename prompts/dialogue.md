@@ -33,7 +33,7 @@ by [@oggii_0](https://x.com/oggii_0) · 15s · 16:9 · **[▶ Run on APIKO](http
 
 Bans single takes up front, then lists seven shots so the cuts feel handheld and unstaged.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=dialogue-01#dialogue-01"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/dialogue-01.webp" width="560" alt="Seven-shot bedroom candid with a cat and a doorbell – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/47c0578b-bf7e-49cf-8dd0-cf05d042cc06
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -67,7 +67,7 @@ by [@tanabe_fragm](https://x.com/tanabe_fragm) · 20s · 16:9 · **[▶ Run on A
 
 Describes lip movement and relaxed body language so the conversation reads as natural.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=dialogue-02#dialogue-02"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/dialogue-02.webp" width="560" alt="Two friends chatting, Japanese slice of life – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/3fb93173-9bda-4eb2-9578-9d5fc9174f61
 
 **Prompt:**
 
@@ -82,7 +82,7 @@ by [@Nabilidosoo](https://x.com/Nabilidosoo) · 30s · 16:9 · **[▶ Run on API
 
 Points to voice references by tag in Spanish, so speech comes from your own files.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=dialogue-03#dialogue-03"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/dialogue-03.webp" width="560" alt="Podcast interview driven by voice references – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/4715fab4-5bf7-4575-8323-547161206f92
 
 **Prompt:**
 
@@ -99,7 +99,7 @@ by [@bmx_ai13](https://x.com/bmx_ai13) · 30s · 16:9 · **[▶ Run on APIKO](ht
 
 Asks for dialogue, ambience and score together, and gives the film a title.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=dialogue-04#dialogue-04"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/dialogue-04.webp" width="560" alt="A short film with synchronised dialogue and original score – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/26336f2b-65ac-4336-a518-0027961645f9
 
 **Prompt:**
 
@@ -134,7 +134,7 @@ by [@ozansihay](https://x.com/ozansihay) · 92s · 16:9 · **[▶ Run on APIKO](
 
 Writes the whole prompt in Turkish and tags two image roles: leader and soldier.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=dialogue-05#dialogue-05"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/dialogue-05.webp" width="560" alt="Alien commander gives orders, in Turkish – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/16b2c695-58c1-4823-adb4-5335f8a64f55
 
 > 📎 Upload your own reference image or clip for this one.
 

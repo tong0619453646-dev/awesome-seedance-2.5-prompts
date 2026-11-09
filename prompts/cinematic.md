@@ -51,7 +51,7 @@ by [@bmx_ai13](https://x.com/bmx_ai13) · 20s · 16:9 · **[▶ Run on APIKO](ht
 
 Starts from a faithful period room and lets one impossible event break it.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-01#cinematic-01"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-01.webp" width="560" alt="Ten-second live-action illusion in a 19th-century interior – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/a795e3ac-e808-458f-bd7e-44c15a2048ad
 
 **Prompt:**
 
@@ -66,7 +66,7 @@ by [@bmx_ai13](https://x.com/bmx_ai13) · 20s · 16:9 · **[▶ Run on APIKO](ht
 
 One lens effect, a circular vignette and curved edges, carries the whole prompt.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-02#cinematic-02"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-02.webp" width="560" alt="Doorway peephole POV through a fisheye – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/a0b48edb-fa7c-4609-96c7-4044f48254b5
 
 **Prompt:**
 
@@ -81,7 +81,7 @@ by [@sebatheepan](https://x.com/sebatheepan) · 15s · 16:9 · **[▶ Run on API
 
 A single story beat, an image becoming physical, gets all the detail.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-03#cinematic-03"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-03.webp" width="560" alt="The projected moon turns real in an abandoned planetarium – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/5da73dfc-324e-4eb6-98f3-815269dffa89
 
 **Prompt:**
 
@@ -96,7 +96,7 @@ by [@mrdejie](https://x.com/mrdejie) · 30s · 1:1 · **[▶ Run on APIKO](https
 
 Stacks film-stock, grain and practical-light words to get a period look.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-04#cinematic-04"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-04.webp" width="560" alt="1980s 35mm neon and strobe – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/9a1bfe5d-13fb-47c6-8cd7-c1eca2f2a138
 
 **Prompt:**
 
@@ -118,7 +118,7 @@ by [@digitalwindai](https://x.com/digitalwindai) · 30s · 16:9 · **[▶ Run on
 
 A STYLE block of film-era words, then a short scene inside it.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-05#cinematic-05"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-05.webp" width="560" alt="Black-and-white 35mm café arthouse – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/d26f6d43-23f9-494b-a75e-d4aa1c2f9cd8
 
 **Prompt:**
 
@@ -234,7 +234,7 @@ by [@hedo_ist](https://x.com/hedo_ist) · 40s · 5:4 · **[▶ Run on APIKO](htt
 
 Ties scale to physical effects: shaking ground and heavy splashing water.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-06#cinematic-06"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-06.webp" width="560" alt="A giant wading a lake, and the dragon that follows – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/1045ee1e-70be-4029-bd3f-5c8aa10d78e4
 
 **Prompt:**
 
@@ -253,7 +253,7 @@ by [@rahulnanda86](https://x.com/rahulnanda86) · 38s · 16:9 · **[▶ Run on A
 
 Weather and water colour come first, so the mood is set before the characters move.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-07#cinematic-07"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-07.webp" width="560" alt="Survival thriller in a flooded village – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/df0e5cc6-e8db-4d9d-9948-c7f02ce59fe0
 
 **Prompt:**
 
@@ -300,7 +300,7 @@ by [@tanabe_fragm](https://x.com/tanabe_fragm) · 15s · 16:9 · **[▶ Run on A
 
 One athlete, one jump, one moment, which is why the slow motion stays clean.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-08#cinematic-08"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-08.webp" width="560" alt="Olympic badminton smash in slow motion – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/a06eed6e-938c-4842-86cb-af1150783b9e
 
 **Prompt:**
 
@@ -315,7 +315,7 @@ by [@higgsfield_ai](https://x.com/higgsfield_ai) · 15s · 16:9 · **[▶ Run on
 
 Sets candy-coloured sets and synchronised dance, with moves tied to the beat.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-09#cinematic-09"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-09.webp" width="560" alt="Y2K pop duo music video, beat-locked – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/8b3fc1b7-62ec-421f-b1e0-9632fbc984c6
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -366,7 +366,7 @@ by [@raza8542121](https://x.com/raza8542121) · 30s · 16:9 · **[▶ Run on API
 
 Names the camera body and lens set, then plans a single continuous move.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-10#cinematic-10"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-10.webp" width="560" alt="One-shot anamorphic, specified down to the lenses – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/b3197de5-6b40-4063-8af1-acde62a7366e
 
 **Prompt:**
 
@@ -391,7 +391,7 @@ by [@johnAGI168](https://x.com/johnAGI168) · 30s · 9:16 · **[▶ Run on APIKO
 
 Cuts a short comedy into timed beats with a line of dialogue in each.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-11#cinematic-11"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-11.webp" width="320" alt="The beauty filter comes alive, vertical comedy – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/cbc2b963-8875-47ac-8c2d-940b33985921
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -449,7 +449,7 @@ by [@akiyoshisan](https://x.com/akiyoshisan) · 30s · 16:9 · **[▶ Run on API
 
 Writes it as 0.0 to 2.0 s blocks, tense first half and fast second half.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-12#cinematic-12"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-12.webp" width="560" alt="Armour and horse, cut like a trailer – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/4d90e7aa-d673-47f9-99d8-86477b7fcde0
 
 **Prompt:**
 
@@ -528,7 +528,7 @@ by [@zeng_wt](https://x.com/zeng_wt) · 30s · 16:9 · **[▶ Run on APIKO](http
 
 Blends true-to-life lighting words with physics the scene breaks on purpose.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-13#cinematic-13"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-13.webp" width="560" alt="Real light, impossible physics – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/df665854-578d-4d3c-8613-aea6809f87b3
 
 **Prompt:**
 
@@ -555,7 +555,7 @@ by [@Dheepanratnam](https://x.com/Dheepanratnam) · 30s · 16:9 · **[▶ Run on
 
 A single arrow-chained line lists every stage, so the zoom never stops.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-14#cinematic-14"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-14.webp" width="560" alt="One fall, from orbit to a raindrop on a leaf – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/4ab3c6b9-bbd8-4f66-b5fb-8b68d95be0e1
 
 **Prompt:**
 
@@ -570,7 +570,7 @@ by [@KrevixAi](https://x.com/KrevixAi) · 30s · 16:9 · **[▶ Run on APIKO](ht
 
 A push-in through a gap links two rooms without a cut.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-15#cinematic-15"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-15.webp" width="560" alt="Through the red curtain in one take – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/ef5adb90-28f8-4a7f-8449-0b830f02e700
 
 **Prompt:**
 
@@ -585,7 +585,7 @@ by [@PromptSin](https://x.com/PromptSin) · 15s · 16:9 · **[▶ Run on APIKO](
 
 Specifies stereo sound next to a short character description.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-16#cinematic-16"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-16.webp" width="560" alt="A female explorer, with synchronised stereo audio – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/b20fd530-611e-4527-b069-b52c2564a4f6
 
 **Prompt:**
 
@@ -616,7 +616,7 @@ by [@LudovicCreator](https://x.com/LudovicCreator) · 30s · 16:9 · **[▶ Run 
 
 Asks for logically connected shots with consistent identity through the change.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-17#cinematic-17"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-17.webp" width="560" alt="Magical transformation across linked shots – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/6045f78e-e9a3-4258-9d22-6d80f6db0014
 
 **Prompt:**
 
@@ -647,7 +647,7 @@ by [@Dheepanratnam](https://x.com/Dheepanratnam) · 30s · 16:9 · **[▶ Run on
 
 Names a documentary style and a time of day, then lets light do the work.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-18#cinematic-18"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-18.webp" width="560" alt="Planet Earth-style wildlife morning – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/7b418fcc-d3b9-4beb-b322-8c6d922a60cb
 
 **Prompt:**
 
@@ -681,7 +681,7 @@ by [@janmexico](https://x.com/janmexico) · 36s · 16:9 · **[▶ Run on APIKO](
 
 Gives the tone as format plus light angle, then describes the character in one line.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-19#cinematic-19"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-19.webp" width="560" alt="IMAX anamorphic, hard low sun on wet ground – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/74f5de20-acce-4414-b2da-02ff3822102c
 
 **Prompt:**
 
@@ -709,7 +709,7 @@ by [@CaptainHaHaa](https://x.com/CaptainHaHaa) · 30s · 16:9 · **[▶ Run on A
 
 Cites 1970s and 80s space films and asks for symmetrical, slow compositions.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-20#cinematic-20"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-20.webp" width="560" alt="Retro space opera, practical-effects look – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/00b64f6e-21d1-44d2-8183-05175b0dce0a
 
 **Prompt:**
 
@@ -772,7 +772,7 @@ by [@Dheepanratnam](https://x.com/Dheepanratnam) · 30s · 16:9 · **[▶ Run on
 
 One character, one space and a negative list that excludes text and morphing.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-21#cinematic-21"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-21.webp" width="560" alt="Midnight baggage hall, one tired cleaner – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/54a029ca-684d-43aa-8f83-9c3886586e27
 
 **Prompt:**
 
@@ -815,7 +815,7 @@ by [@kinovi_ai](https://x.com/kinovi_ai) · 28s · 16:9 · **[▶ Run on APIKO](
 
 Defines a global look first, then scenes that vary speed and screen direction.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-22#cinematic-22"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-22.webp" width="560" alt="Square-format subway horror, strobe and shadow – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/f2838868-f395-41f2-8c91-af3b835df630
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -852,7 +852,7 @@ by [@Xizital](https://x.com/Xizital) · 30s · 16:9 · **[▶ Run on APIKO](http
 
 Writes the prompt in Vietnamese with labelled parts for character and scene.
 
-<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-23#cinematic-23"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-23.webp" width="560" alt="A Vietnamese peasant, written in Vietnamese – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/9cb82d6b-5999-41d3-8892-5d415b83f364
 
 **Prompt:**
 

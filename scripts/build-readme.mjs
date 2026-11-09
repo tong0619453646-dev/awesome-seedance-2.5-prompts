@@ -174,7 +174,9 @@ function helpers(locale) {
 
   function media(card, file, width, alt, link, up) {
     const name = file;
-    if (videos[name]) return `<video src="${videos[name]}" width="${width}" controls muted playsinline></video>${trimmed.has(name) ? `<br><sub>${L.trimmed} [apiko.app](${link})</sub>` : ''}`;
+    // A bare attachment URL on its own line is the form GitHub turns into a player in any repository;
+    // a <video src> tag only plays in the repository the file was uploaded to.
+    if (videos[name]) return `${videos[name]}${trimmed.has(name) ? `\n\n<sub>${L.trimmed} [apiko.app](${link})</sub>` : ''}`;
     if (gifs.has(card.id) && file === card.media.files[0]) return `<a href="${link}"><img src="${up}assets/gif/${card.id}.gif" width="${width}" alt="${esc(alt)}"></a>`;
     const src = file.endsWith('.mp4') ? card.media.poster : file;
     return `<a href="${link}"><img src="${MEDIA}${src}" width="${width}" alt="${esc(alt)}"></a>`;

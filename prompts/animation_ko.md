@@ -36,7 +36,7 @@
 
 스타일 규칙을 먼저 정하고 딱딱한 컷을 금지해 모든 전환이 이어지게 합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=animation-01#animation-01"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/animation-01.webp" width="560" alt="손그림 애니메이션, 컷 없이 흐르는 전환 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/421e4c80-194d-4bf4-b766-3e49ba0e3b27
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -147,7 +147,7 @@ The glowing line disintegrates into hand-drawn dust particles that drift rhythmi
 
 초점거리와 조리개를 먼저 정하고 컷마다 다른 렌즈를 줍니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=animation-02#animation-02"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/animation-02.webp" width="560" alt="컷마다 렌즈가 바뀌는 애니 영화 룩 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/657fdadc-d06f-4de6-9b9d-c6b8579039d5
 
 **프롬프트:**
 
@@ -389,7 +389,7 @@ capcutcpp & capcutseedance25
 
 음악·대사·글자를 배제하고 윤곽선 색과 팔레트를 적습니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=animation-03#animation-03"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/animation-03.webp" width="560" alt="네오 레트로 플랫 2D 애니, 환경음만 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/ab805c13-0354-49bb-89ab-9d49189127ca
 
 **프롬프트:**
 
@@ -558,7 +558,7 @@ capcutseedance25　capcutcpp　@capcutapp
 
 큰 머리·큰 눈·과장된 포즈를 말로 풀어 씁니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=animation-04#animation-04"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/animation-04.webp" width="560" alt="큰 머리 비율의 패밀리 애니 룩 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/42e45c9d-77cb-4121-978e-ef72e4190f5e
 
 **프롬프트:**
 
@@ -634,7 +634,7 @@ logos.
 
 키-값 구조로 컷 목록 대신 카메라 경로를 적습니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=animation-05#animation-05"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/animation-05.webp" width="560" alt="하나의 카메라 비행으로 만든 애니 오프닝 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/b8dd65c5-833d-4167-91e0-ef7a3a40ac64
 
 **프롬프트:**
 
@@ -649,7 +649,7 @@ type: anime_opening_continuous_camera_flythrough style: visual: dark fantasy ani
 
 샷마다 초 단위를 적고 익스트림 클로즈업으로 시작합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=animation-06#animation-06"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/animation-06.webp" width="560" alt="용의 눈이 뜨이는 순간, 샷별 타이밍 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/0ad89423-c85e-44f4-9599-1098fa03f520
 
 **프롬프트:**
 
@@ -676,7 +676,7 @@ Shot 12 (2.0s): A final tense close-up as @Boy presses his back against a frozen
 
 같은 카툰 비율 공식에 다른 장면을 넣었습니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=animation-07#animation-07"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/animation-07.webp" width="560" alt="큰 머리 패밀리 애니 룩, 다른 장면 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/64d0b360-52cd-4354-8971-8d1d132bd388
 
 **프롬프트:**
 
@@ -763,7 +763,7 @@ geometry.
 
 유려한 작화와 빠른 편집을 액션의 목표로 지정합니다.
 
-<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=animation-08#animation-08"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/animation-08.webp" width="560" alt="작화 수준의 애니 액션 – Seedance 2.5"></a>
+https://github.com/user-attachments/assets/a4b7f7d7-4234-4872-8464-ef44aacae450
 
 **프롬프트:**
 
