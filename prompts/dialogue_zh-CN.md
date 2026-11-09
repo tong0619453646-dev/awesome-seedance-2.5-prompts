@@ -33,7 +33,7 @@
 
 开头先禁用单一机位，再列出七个镜头，节奏像随手拍下的生活。
 
-<video src="https://github.com/user-attachments/assets/47c0578b-bf7e-49cf-8dd0-cf05d042cc06" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=dialogue-01#dialogue-01"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/dialogue-01.webp" width="560" alt="七镜头卧室纪实：猫、电话与门铃 – Seedance 2.5"></a>
 
 > 📎 这条需要你自己上传参考图或参考视频。
 
@@ -67,7 +67,7 @@ No music. Only raw production sound: bedding rustling, quiet breathing, finger t
 
 专门写明口型和放松的肢体，让对话看起来自然。
 
-<video src="https://github.com/user-attachments/assets/3fb93173-9bda-4eb2-9578-9d5fc9174f61" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=dialogue-02#dialogue-02"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/dialogue-02.webp" width="560" alt="两个好友闲聊的日式日常 – Seedance 2.5"></a>
 
 **提示词:**
 
@@ -82,7 +82,7 @@ A cinematic Japanese slice-of-life scene.Two young Japanese women (age 20 and 22
 
 用西班牙语逐个指向声音参考，让说话声来自你的素材。
 
-<video src="https://github.com/user-attachments/assets/4715fab4-5bf7-4575-8323-547161206f92" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=dialogue-03#dialogue-03"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/dialogue-03.webp" width="560" alt="用声音参考驱动的播客访谈 – Seedance 2.5"></a>
 
 **提示词:**
 
@@ -99,7 +99,7 @@ El entrevistador esta en su podcast  entrevistando a @8993a3ce-444a-414b-9800-67
 
 同时要求对白、环境声和配乐，并给短片起了片名。
 
-<video src="https://github.com/user-attachments/assets/26336f2b-65ac-4336-a518-0027961645f9" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=dialogue-04#dialogue-04"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/dialogue-04.webp" width="560" alt="有同步对白和原创配乐的短片 – Seedance 2.5"></a>
 
 **提示词:**
 
@@ -134,7 +134,7 @@ Sound design must include rain on glass, distant tires on wet road, washer motor
 
 整段提示用土耳其语，并给两张图分配指挥官和士兵角色。
 
-<video src="https://github.com/user-attachments/assets/16b2c695-58c1-4823-adb4-5335f8a64f55" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=dialogue-05#dialogue-05"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/dialogue-05.webp" width="560" alt="外星指挥官下令，全程土耳其语 – Seedance 2.5"></a>
 
 > 📎 这条需要你自己上传参考图或参考视频。
 

@@ -42,7 +42,7 @@
 
 要求用上全部上傳圖片，並讓切鏡踩著音軌節奏。
 
-<video src="https://github.com/user-attachments/assets/e00778c7-5f40-40fe-abc5-52a50cb6fbc8" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-01#reference-01"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-01.webp" width="560" alt="十四張圖加一段音訊合成的音樂影片 – Seedance 2.5"></a>
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -65,7 +65,7 @@ Use the uploaded 30-second audio as the only soundtrack. Make it a powerful dubs
 
 逐項列出要從參考圖繼承的特徵，並聲明忽略原背景。
 
-<video src="https://github.com/user-attachments/assets/0a8a92de-67e0-4b93-98da-8ec656c598f0" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-02#reference-02"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-02.webp" width="560" alt="R2V 模式：只取角色，其餘都不要 – Seedance 2.5"></a>
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -82,7 +82,7 @@ Use the uploaded 30-second audio as the only soundtrack. Make it a powerful dubs
 
 聲明新圖取代先前所有參考，避免人物漂移。
 
-<video src="https://github.com/user-attachments/assets/157d397e-189d-4ce5-a607-b1893020c0e2" width="320" controls muted playsinline></video>
+<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-03#reference-03"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-03.webp" width="320" alt="一張圖覆蓋先前所有演員參考 – Seedance 2.5"></a>
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -131,7 +131,7 @@ Finish on the full stadium bowl: tens of thousands of people across every tier p
 
 宣告參考圖為首幀，並複述服裝來穩住外貌。
 
-<video src="https://github.com/user-attachments/assets/cfee9b0d-2821-4247-a3c8-3dfd7d52a77e" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-04#reference-04"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-04.webp" width="560" alt="人物鎖定在首幀 – Seedance 2.5"></a>
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -149,7 +149,7 @@ image_1 — straight black hair, white short-sleeve collared shirt, navy pleated
 
 每個角色一個設定圖標籤，要求臉與服裝都不變。
 
-<video src="https://github.com/user-attachments/assets/b3ca5dae-ba0a-41b5-9a7c-b6f30ff6b0db" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-05#reference-05"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-05.webp" width="560" alt="兩張角色設定圖鎖定身分與服裝 – Seedance 2.5"></a>
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -166,7 +166,7 @@ Preserve the exact identity and wardrobe of the male target @target_character_sh
 
 三張圖各自分工，把卡通與真人放進同一場景。
 
-<video src="https://github.com/user-attachments/assets/b524b5e7-cc01-4ec9-b68b-b4c1133190f8" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-06#reference-06"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-06.webp" width="560" alt="卡通鬥牛犬對陣真人拳手 – Seedance 2.5"></a>
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -235,7 +235,7 @@ Final slightly high-angle wide shot. The referee brings the bulldog to the cente
 
 以 IDENTITY 行開頭，限定參考圖只能提供哪些特徵。
 
-<video src="https://github.com/user-attachments/assets/27ad4a8f-6ff7-4fdc-bd67-c5b32f36e004" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-07#reference-07"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-07.webp" width="560" alt="參考圖只提供身分，其餘不要 – Seedance 2.5"></a>
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -254,7 +254,7 @@ IDENTITY: @Image1 supplies identity only — face, long black hair, low-brim cap
 
 先鎖筆觸、質感與配色，再列出少數要動的部分。
 
-<video src="https://github.com/user-attachments/assets/2cf2f84d-9316-4f59-b762-f443e5d4d7cc" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-08#reference-08"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-08.webp" width="560" alt="鎖定原畫，只讓該動的部分動 – Seedance 2.5"></a>
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -295,7 +295,7 @@ Now completely full, the dragons happily fly back through sunset clouds carrying
 
 替每張角色圖編號，再逐一分配武器與角色。
 
-<video src="https://github.com/user-attachments/assets/6dd7d6b4-75ff-4632-bdd4-44de9a7bbc8a" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-09#reference-09"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-09.webp" width="560" alt="十八張參考圖拼成賽博武俠預告片 – Seedance 2.5"></a>
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -337,7 +337,7 @@ Now completely full, the dragons happily fly back through sunset clouds carrying
 
 每張圖只擔一項任務：臉、設定圖或實拍氛圍。
 
-<video src="https://github.com/user-attachments/assets/23da1631-4654-4cbb-8dca-49e838d6df62" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-10#reference-10"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-10.webp" width="560" alt="哥德蘿莉雙胞胎，三張參考各司其職 – Seedance 2.5"></a>
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -414,7 +414,7 @@ Image1の構図の複製。壁の十字架、磔刑像、宗教記号。流血�
 
 凍結畫風與材質，只寫隨時間發生的動作。
 
-<video src="https://github.com/user-attachments/assets/1f7a8908-0c1a-43dc-b752-f001aac1f3e3" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-11#reference-11"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-11.webp" width="560" alt="插畫不變，三十秒的動態 – Seedance 2.5"></a>
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -463,7 +463,7 @@ A majestic vertical drone shot rises high into the sky. The flood forms beautifu
 
 用名字、髮色與服裝描述角色，再綁定到圖片標籤。
 
-<video src="https://github.com/user-attachments/assets/dd84f148-bca6-4716-8129-4a4aa4a443cb" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-12#reference-12"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-12.webp" width="560" alt="黑暗法師 Celestia，身分取自圖一 – Seedance 2.5"></a>
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -599,7 +599,7 @@ SFX：
 
 逐項列出一張圖裡的頭髮、盔甲、外套、靴子與劍。
 
-<video src="https://github.com/user-attachments/assets/2daf26b1-3343-4d79-b2f7-513aefcc8359" width="320" controls muted playsinline></video>
+<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-13#reference-13"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-13.webp" width="320" alt="一張圖鎖定戰士、鎧甲與劍 – Seedance 2.5"></a>
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -637,7 +637,7 @@ Ultra-premium fantasy fashion editorial, sensual but powerful warrior energy, im
 
 從圖中取造型線索，並聲明不得神似任何真人。
 
-<video src="https://github.com/user-attachments/assets/c237a42a-e898-4e81-8ea4-f1b7a03f3e2e" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-14#reference-14"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-14.webp" width="560" alt="一張角色參考，重構為虛構人物 – Seedance 2.5"></a>
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 

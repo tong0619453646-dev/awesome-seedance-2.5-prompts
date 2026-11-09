@@ -21,7 +21,7 @@
 
 **Seedance 2.5 prompts: 88 copyable video prompts with their result clips, from one-take camera moves to reference-image scenes. Run any of them on APIKO.**
 
-Seedance 2.5 prompts with the clips they made: copy one, or send it to the model page with the text already filled in. Every result video plays right here on GitHub.
+Seedance 2.5 prompts with the clips they made: copy one, or send it to the model page with the text already filled in.
 
 Search and filter them on [apiko.app/seedance-2-5-prompts](https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-prompts&utm_content=intro).
 
@@ -104,7 +104,7 @@ by [@JMSvid](https://x.com/JMSvid) · 30s · 4:3 · **[▶ Run on APIKO](https:/
 
 Splits one unbroken shot into time ranges so the camera path is planned second by second.
 
-<video src="https://github.com/user-attachments/assets/d857c60c-ed4f-4b6b-99d1-0e0a9a979c42" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=long-form-01#long-form-01"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/long-form-01.webp" width="560" alt="Thirty seconds inside a London techno club, no cuts – Seedance 2.5"></a>
 
 **Prompt:**
 
@@ -139,7 +139,7 @@ by [@Dheepanratnam](https://x.com/Dheepanratnam) · 30s · 16:9 · **[▶ Run on
 
 A single arrow-chained line lists every stage, so the zoom never stops.
 
-<video src="https://github.com/user-attachments/assets/4ab3c6b9-bbd8-4f66-b5fb-8b68d95be0e1" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-14#cinematic-14"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-14.webp" width="560" alt="One fall, from orbit to a raindrop on a leaf – Seedance 2.5"></a>
 
 **Prompt:**
 
@@ -154,7 +154,7 @@ by [@sebatheepan](https://x.com/sebatheepan) · 15s · 16:9 · **[▶ Run on API
 
 A single story beat, an image becoming physical, gets all the detail.
 
-<video src="https://github.com/user-attachments/assets/5da73dfc-324e-4eb6-98f3-815269dffa89" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-03#cinematic-03"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-03.webp" width="560" alt="The projected moon turns real in an abandoned planetarium – Seedance 2.5"></a>
 
 **Prompt:**
 
@@ -169,7 +169,7 @@ by [@raza8542121](https://x.com/raza8542121) · 30s · 16:9 · **[▶ Run on API
 
 Names the camera body and lens set, then plans a single continuous move.
 
-<video src="https://github.com/user-attachments/assets/b3197de5-6b40-4063-8af1-acde62a7366e" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=cinematic-10#cinematic-10"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/cinematic-10.webp" width="560" alt="One-shot anamorphic, specified down to the lenses – Seedance 2.5"></a>
 
 **Prompt:**
 
@@ -194,7 +194,7 @@ by [@studio_oneroom](https://x.com/studio_oneroom) · 30s · 16:9 · **[▶ Run 
 
 Names a focal length and aperture up front, then gives each cut its own lens.
 
-<video src="https://github.com/user-attachments/assets/657fdadc-d06f-4de6-9b9d-c6b8579039d5" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=animation-02#animation-02"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/animation-02.webp" width="560" alt="Anime film look with a different lens on every cut – Seedance 2.5"></a>
 
 **Prompt:**
 
@@ -436,7 +436,7 @@ by [@maxxmalist](https://x.com/maxxmalist) · 15s · 16:9 · **[▶ Run on APIKO
 
 Starts with a fixed selfie-mode opening, then keeps the DV look through camera notes.
 
-<video src="https://github.com/user-attachments/assets/3cd0e2a4-0eb2-4277-94f6-ea43e1d484dd" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=documentary-01#documentary-01"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/documentary-01.webp" width="560" alt="Handheld DV morning dog-walk vlog – Seedance 2.5"></a>
 
 **Prompt:**
 

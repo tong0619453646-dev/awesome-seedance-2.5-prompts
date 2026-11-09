@@ -32,7 +32,7 @@
 
 一段話寫清空間、療程與氛圍，像商業廣告腳本。
 
-<video src="https://github.com/user-attachments/assets/9d90deb2-624a-49b9-b9b5-fe8e49dcf5cd" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=product-01#product-01"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/product-01.webp" width="560" alt="整脊診所的社群宣傳片 – Seedance 2.5"></a>
 
 **提示詞:**
 
@@ -63,7 +63,7 @@ Audio should feel captured on location with soft room ambience, distant clinic m
 
 把換裝拆成相連的節拍，放進 30 秒的畫面裡。
 
-<video src="https://github.com/user-attachments/assets/d5402e15-2b85-4efb-8c8f-c3a5892be892" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=product-02#product-02"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/product-02.webp" width="560" alt="寫實風時裝變裝 – Seedance 2.5"></a>
 
 **提示詞:**
 
@@ -90,7 +90,7 @@ Music should be an upbeat polished fashion pop instrumental at about 112 beats p
 
 從圖中保留臉型與版面，再讓每套造型對應一個節拍。
 
-<video src="https://github.com/user-attachments/assets/3963dc69-6548-432f-a69e-4591eb1405c9" width="320" controls muted playsinline></video>
+<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=product-03#product-03"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/product-03.webp" width="320" alt="8 秒踩點換裝 – Seedance 2.5"></a>
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -154,7 +154,7 @@ Music should be an upbeat polished fashion pop instrumental at about 112 beats p
 
 依時間點標註音效，讓妝容鏡頭對上聲音提示。
 
-<video src="https://github.com/user-attachments/assets/ae7f8c38-4c79-419b-817e-3091777eb082" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/zh-tw/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=product-04#product-04"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/product-04.webp" width="560" alt="銀色瀏海與亮粉的美妝短片 – Seedance 2.5"></a>
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 

@@ -32,7 +32,7 @@ by [@bmx_ai13](https://x.com/bmx_ai13) · 30s · 16:9 · **[▶ Run on APIKO](ht
 
 Describes the room, the treatment and the mood in one commercial-style paragraph.
 
-<video src="https://github.com/user-attachments/assets/9d90deb2-624a-49b9-b9b5-fe8e49dcf5cd" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=product-01#product-01"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/product-01.webp" width="560" alt="Chiropractic clinic social spot – Seedance 2.5"></a>
 
 **Prompt:**
 
@@ -63,7 +63,7 @@ by [@bmx_ai13](https://x.com/bmx_ai13) · 30s · 16:9 · **[▶ Run on APIKO](ht
 
 Plans the outfit changes as linked beats inside one 30-second frame.
 
-<video src="https://github.com/user-attachments/assets/d5402e15-2b85-4efb-8c8f-c3a5892be892" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=product-02#product-02"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/product-02.webp" width="560" alt="Photoreal fashion transformation – Seedance 2.5"></a>
 
 **Prompt:**
 
@@ -90,7 +90,7 @@ by [@blocktom](https://x.com/blocktom) · 8s · 9:16 · **[▶ Run on APIKO](htt
 
 Keeps face and layout from an image, then times each outfit to a beat.
 
-<video src="https://github.com/user-attachments/assets/3963dc69-6548-432f-a69e-4591eb1405c9" width="320" controls muted playsinline></video>
+<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=product-03#product-03"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/product-03.webp" width="320" alt="Eight-second beat-synced outfit change – Seedance 2.5"></a>
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -154,7 +154,7 @@ by [@maxescu](https://x.com/maxescu) · 30s · 16:9 · **[▶ Run on APIKO](http
 
 Annotates sound effects by timestamp, so makeup shots sync to audio cues.
 
-<video src="https://github.com/user-attachments/assets/ae7f8c38-4c79-419b-817e-3091777eb082" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=product-04#product-04"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/product-04.webp" width="560" alt="Beauty film, silver fringe and glitter – Seedance 2.5"></a>
 
 > 📎 Upload your own reference image or clip for this one.
 

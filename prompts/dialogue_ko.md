@@ -33,7 +33,7 @@
 
 첫머리에서 단일 앵글을 금지하고 7개 샷을 나열해 손으로 찍은 듯한 리듬을 냅니다.
 
-<video src="https://github.com/user-attachments/assets/47c0578b-bf7e-49cf-8dd0-cf05d042cc06" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=dialogue-01#dialogue-01"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/dialogue-01.webp" width="560" alt="침실 7샷 일상: 고양이·전화·초인종 – Seedance 2.5"></a>
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -67,7 +67,7 @@ No music. Only raw production sound: bedding rustling, quiet breathing, finger t
 
 입 모양과 편안한 몸짓을 구체적으로 적어 대화가 자연스럽게 보이게 합니다.
 
-<video src="https://github.com/user-attachments/assets/3fb93173-9bda-4eb2-9578-9d5fc9174f61" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=dialogue-02#dialogue-02"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/dialogue-02.webp" width="560" alt="두 친구의 수다, 일본풍 일상 – Seedance 2.5"></a>
 
 **프롬프트:**
 
@@ -82,7 +82,7 @@ A cinematic Japanese slice-of-life scene.Two young Japanese women (age 20 and 22
 
 스페인어로 음성 참조를 태그별로 지정해 목소리를 자기 파일에서 가져옵니다.
 
-<video src="https://github.com/user-attachments/assets/4715fab4-5bf7-4575-8323-547161206f92" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=dialogue-03#dialogue-03"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/dialogue-03.webp" width="560" alt="음성 참조로 만든 팟캐스트 인터뷰 – Seedance 2.5"></a>
 
 **프롬프트:**
 
@@ -99,7 +99,7 @@ El entrevistador esta en su podcast  entrevistando a @8993a3ce-444a-414b-9800-67
 
 대사·환경음·음악을 함께 요청하고 영화 제목도 붙였습니다.
 
-<video src="https://github.com/user-attachments/assets/26336f2b-65ac-4336-a518-0027961645f9" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=dialogue-04#dialogue-04"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/dialogue-04.webp" width="560" alt="동기 대사와 오리지널 스코어가 있는 단편 – Seedance 2.5"></a>
 
 **프롬프트:**
 
@@ -134,7 +134,7 @@ Sound design must include rain on glass, distant tires on wet road, washer motor
 
 프롬프트 전체를 터키어로 쓰고 이미지 두 장에 사령관·병사 역할을 줍니다.
 
-<video src="https://github.com/user-attachments/assets/16b2c695-58c1-4823-adb4-5335f8a64f55" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/ko/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=dialogue-05#dialogue-05"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/dialogue-05.webp" width="560" alt="터키어로 명령하는 외계 사령관 – Seedance 2.5"></a>
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 

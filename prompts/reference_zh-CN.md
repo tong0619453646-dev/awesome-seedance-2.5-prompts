@@ -42,7 +42,7 @@
 
 要求用上全部上传图片，并让切镜踩着音轨节奏。
 
-<video src="https://github.com/user-attachments/assets/e00778c7-5f40-40fe-abc5-52a50cb6fbc8" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-01#reference-01"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-01.webp" width="560" alt="十四张图加一段音频合成的音乐视频 – Seedance 2.5"></a>
 
 > 📎 这条需要你自己上传参考图或参考视频。
 
@@ -65,7 +65,7 @@ Use the uploaded 30-second audio as the only soundtrack. Make it a powerful dubs
 
 逐项列出要从参考图继承的特征，并声明忽略原背景。
 
-<video src="https://github.com/user-attachments/assets/0a8a92de-67e0-4b93-98da-8ec656c598f0" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-02#reference-02"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-02.webp" width="560" alt="R2V 模式：只取角色，别的都不要 – Seedance 2.5"></a>
 
 > 📎 这条需要你自己上传参考图或参考视频。
 
@@ -82,7 +82,7 @@ Use the uploaded 30-second audio as the only soundtrack. Make it a powerful dubs
 
 声明新图取代此前所有参考，防止人物漂移。
 
-<video src="https://github.com/user-attachments/assets/157d397e-189d-4ce5-a607-b1893020c0e2" width="320" controls muted playsinline></video>
+<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-03#reference-03"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-03.webp" width="320" alt="一张图覆盖之前所有演员参考 – Seedance 2.5"></a>
 
 > 📎 这条需要你自己上传参考图或参考视频。
 
@@ -131,7 +131,7 @@ Finish on the full stadium bowl: tens of thousands of people across every tier p
 
 声明参考图是首帧，并复述服装来稳住外貌。
 
-<video src="https://github.com/user-attachments/assets/cfee9b0d-2821-4247-a3c8-3dfd7d52a77e" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-04#reference-04"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-04.webp" width="560" alt="人物锁定在首帧 – Seedance 2.5"></a>
 
 > 📎 这条需要你自己上传参考图或参考视频。
 
@@ -149,7 +149,7 @@ image_1 — straight black hair, white short-sleeve collared shirt, navy pleated
 
 每个角色一个设定图标签，要求脸和服装都不变。
 
-<video src="https://github.com/user-attachments/assets/b3ca5dae-ba0a-41b5-9a7c-b6f30ff6b0db" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-05#reference-05"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-05.webp" width="560" alt="两张角色设定图锁定身份与服装 – Seedance 2.5"></a>
 
 > 📎 这条需要你自己上传参考图或参考视频。
 
@@ -166,7 +166,7 @@ Preserve the exact identity and wardrobe of the male target @target_character_sh
 
 三张图分别分工，把卡通和真人放进同一场景。
 
-<video src="https://github.com/user-attachments/assets/b524b5e7-cc01-4ec9-b68b-b4c1133190f8" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-06#reference-06"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-06.webp" width="560" alt="卡通斗牛犬对阵真人拳手 – Seedance 2.5"></a>
 
 > 📎 这条需要你自己上传参考图或参考视频。
 
@@ -235,7 +235,7 @@ Final slightly high-angle wide shot. The referee brings the bulldog to the cente
 
 以 IDENTITY 行开头，限定参考图只能提供哪些特征。
 
-<video src="https://github.com/user-attachments/assets/27ad4a8f-6ff7-4fdc-bd67-c5b32f36e004" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-07#reference-07"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-07.webp" width="560" alt="参考图只提供身份，其他不要 – Seedance 2.5"></a>
 
 > 📎 这条需要你自己上传参考图或参考视频。
 
@@ -254,7 +254,7 @@ IDENTITY: @Image1 supplies identity only — face, long black hair, low-brim cap
 
 先锁笔触、质感和配色，再列出少数要动的部分。
 
-<video src="https://github.com/user-attachments/assets/2cf2f84d-9316-4f59-b762-f443e5d4d7cc" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-08#reference-08"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-08.webp" width="560" alt="锁定原画，只让该动的部分动 – Seedance 2.5"></a>
 
 > 📎 这条需要你自己上传参考图或参考视频。
 
@@ -295,7 +295,7 @@ Now completely full, the dragons happily fly back through sunset clouds carrying
 
 给每个角色图编号，再逐个分配武器和角色。
 
-<video src="https://github.com/user-attachments/assets/6dd7d6b4-75ff-4632-bdd4-44de9a7bbc8a" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-09#reference-09"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-09.webp" width="560" alt="十八张参考图拼成赛博武侠预告片 – Seedance 2.5"></a>
 
 > 📎 这条需要你自己上传参考图或参考视频。
 
@@ -337,7 +337,7 @@ Now completely full, the dragons happily fly back through sunset clouds carrying
 
 每张图只担一项任务：脸、设定图或实拍氛围。
 
-<video src="https://github.com/user-attachments/assets/23da1631-4654-4cbb-8dca-49e838d6df62" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-10#reference-10"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-10.webp" width="560" alt="哥特萝莉双子，三张参考各司其职 – Seedance 2.5"></a>
 
 > 📎 这条需要你自己上传参考图或参考视频。
 
@@ -414,7 +414,7 @@ Image1の構図の複製。壁の十字架、磔刑像、宗教記号。流血�
 
 冻结画风和材质，只写随时间发生的动作。
 
-<video src="https://github.com/user-attachments/assets/1f7a8908-0c1a-43dc-b752-f001aac1f3e3" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-11#reference-11"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-11.webp" width="560" alt="插画不变，三十秒的动态 – Seedance 2.5"></a>
 
 > 📎 这条需要你自己上传参考图或参考视频。
 
@@ -463,7 +463,7 @@ A majestic vertical drone shot rises high into the sky. The flood forms beautifu
 
 用名字、发色和服装描述角色，再绑定到图片标签。
 
-<video src="https://github.com/user-attachments/assets/dd84f148-bca6-4716-8129-4a4aa4a443cb" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-12#reference-12"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-12.webp" width="560" alt="黑暗法师 Celestia，身份取自图一 – Seedance 2.5"></a>
 
 > 📎 这条需要你自己上传参考图或参考视频。
 
@@ -599,7 +599,7 @@ SFX：
 
 逐项列出一张图里的头发、盔甲、外套、靴子和剑。
 
-<video src="https://github.com/user-attachments/assets/2daf26b1-3343-4d79-b2f7-513aefcc8359" width="320" controls muted playsinline></video>
+<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-13#reference-13"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-13.webp" width="320" alt="一张图锁定战士、铠甲和剑 – Seedance 2.5"></a>
 
 > 📎 这条需要你自己上传参考图或参考视频。
 
@@ -637,7 +637,7 @@ Ultra-premium fantasy fashion editorial, sensual but powerful warrior energy, im
 
 从图中取造型线索，并声明不得酷似任何真人。
 
-<video src="https://github.com/user-attachments/assets/c237a42a-e898-4e81-8ea4-f1b7a03f3e2e" width="560" controls muted playsinline></video>
+<a href="https://apiko.app/zh/seedance-2-5-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.5-prompts&utm_content=reference-14#reference-14"><img src="https://media.apiko.app/prompts/seedance-2-5-prompts/reference-14.webp" width="560" alt="一张角色参考，重构为虚构人物 – Seedance 2.5"></a>
 
 > 📎 这条需要你自己上传参考图或参考视频。
 
